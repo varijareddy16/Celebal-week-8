@@ -1,0 +1,18 @@
+=== cleaning company a (csv source) ===
+0 rows have an unparseable order_date
+9 rows have a missing quantity, dropping them
+14 rows have a missing region, kept and flagged as Unknown
+company a: 1500 raw rows -> 1491 cleaned rows
+
+=== cleaning company b (json / api source) ===
+0 rows have an unparseable txnDate
+11 rows have a missing qtySold, dropping them
+13 rows have a missing salesRegion, kept and flagged as Unknown
+0 rows have a department with no category mapping, flagged as Unmapped
+company b: 1200 raw rows -> 1189 cleaned rows
+
+=== merging both sources into one unified table ===
+dropped 0 duplicate order_id rows after merging
+
+final unified_sales row count: 2680
+silver layer written to silver/unified_sales.csv

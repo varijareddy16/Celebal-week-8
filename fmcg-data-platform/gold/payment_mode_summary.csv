@@ -1,0 +1,5 @@
+payment_mode,total_orders,total_revenue_inr,pct_of_total_revenue
+UPI,714,8631075.67,26.1
+Cash,649,8389225.47,25.4
+Card,663,8108944.74,24.5
+Credit,654,7918448.82,24.0

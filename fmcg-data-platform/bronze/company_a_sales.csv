@@ -1,0 +1,1501 @@
+order_id,order_date,product_name,category,quantity,unit_price_inr,region,payment_mode
+A-00001,2023-02-19,GoldTea Green Tea 100g,Beverages,10,379.55,North Zone,Cash
+A-00002,2024-03-20,CrunchTime Biscuits 200g,Snacks,14,72.25,West Zone,Cash
+A-00003,2023-08-17,Sunrich Cooking Oil 1L,Edible Oils,37,146.47,North Zone,Credit
+A-00004,2023-05-28,CrunchTime Biscuits 200g,Snacks,9,289.06,North Zone,UPI
+A-00005,2023-07-12,Sunrich Cooking Oil 5L,Edible Oils,38,531.24,East Zone,Cash
+A-00006,2024-06-28,Sunrich Cooking Oil 1L,Edible Oils,40,217.12,West Zone,UPI
+A-00007,2023-07-04,GoldTea Green Tea 100g,Beverages,20,253.65,South Zone,Cash
+A-00008,2023-03-16,GoldTea Green Tea 100g,Beverages,47,426.0,North Zone,Credit
+A-00009,2023-03-21,SoftCare Body Wash 250ml,Personal Care,27,73.72,East Zone,UPI
+A-00010,2023-04-06,CrunchTime Chips 150g,Snacks,30,99.14,East Zone,Credit
+A-00011,2024-04-01,PureBite Rice 5kg,Staples,45,306.26,East Zone,Credit
+A-00012,2023-04-30,SoftCare Body Wash 250ml,Personal Care,23,184.52,West Zone,Cash
+A-00013,2024-05-23,PureBite Rice 5kg,Staples,16,382.19,North Zone,Card
+A-00014,2023-10-13,FreshWash Detergent Powder 1kg,Home Care,28,783.03,West Zone,UPI
+A-00015,2023-06-04,FreshWash Dish Soap 500ml,Home Care,10,111.37,South Zone,Card
+A-00016,2023-05-30,FreshWash Detergent Powder 1kg,Home Care,17,282.46,West Zone,UPI
+A-00017,2023-02-25,FreshWash Detergent Powder 1kg,Home Care,45,778.91,West Zone,Credit
+A-00018,2023-07-15,SoftCare Body Wash 250ml,Personal Care,41,384.38,North Zone,Card
+A-00019,2023-06-04,CrunchTime Chips 150g,Snacks,4,128.05,North Zone,UPI
+A-00020,2023-09-16,FreshWash Dish Soap 500ml,Home Care,40,363.56,East Zone,UPI
+A-00021,2023-11-16,SoftCare Body Wash 250ml,Personal Care,30,453.14,North Zone,Card
+A-00022,2023-06-15,GoldTea Premium 250g,Beverages,31,752.82,North Zone,Card
+A-00023,2023-01-28,FreshWash Detergent Powder 1kg,Home Care,45,507.13,East Zone,Cash
+A-00024,2023-08-17,GoldTea Green Tea 100g,Beverages,11,345.9,East Zone,Card
+A-00025,2023-08-21,FreshWash Dish Soap 500ml,Home Care,16,743.77,South Zone,Credit
+A-00026,2023-07-18,Sunrich Cooking Oil 1L,Edible Oils,18,446.13,East Zone,Credit
+A-00027,2023-04-15,GoldTea Green Tea 100g,Beverages,24,109.26,South Zone,Credit
+A-00028,2024-05-05,CrunchTime Chips 150g,Snacks,40,762.77,East Zone,Cash
+A-00029,2024-05-04,SoftCare Shampoo 200ml,Personal Care,46,685.12,South Zone,Credit
+A-00030,2023-03-28,PureBite Rice 5kg,Staples,26,438.32,South Zone,Card
+A-00031,2023-05-30,CrunchTime Chips 150g,Snacks,30,733.59,West Zone,UPI
+A-00032,2023-04-16,Sunrich Cooking Oil 1L,Edible Oils,1,727.45,South Zone,Credit
+A-00033,2023-10-27,FreshWash Dish Soap 500ml,Home Care,2,256.58,South Zone,UPI
+A-00034,2023-12-29,FreshWash Detergent Powder 1kg,Home Care,4,822.61,West Zone,Credit
+A-00035,2024-06-06,FreshWash Detergent Powder 1kg,Home Care,35,170.58,North Zone,Credit
+A-00036,2023-05-04,FreshWash Detergent Powder 1kg,Home Care,12,161.74,North Zone,UPI
+A-00037,2023-02-28,SoftCare Body Wash 250ml,Personal Care,50,131.25,South Zone,Card
+A-00038,2023-03-06,CrunchTime Biscuits 200g,Snacks,29,523.09,West Zone,UPI
+A-00039,2024-04-08,CrunchTime Biscuits 200g,Snacks,13,635.75,West Zone,Card
+A-00040,2023-07-27,GoldTea Premium 250g,Beverages,36,807.77,West Zone,Card
+A-00041,2024-03-14,GoldTea Green Tea 100g,Beverages,5,617.19,North Zone,Card
+A-00042,2024-01-10,FreshWash Detergent Powder 1kg,Home Care,46,593.37,South Zone,UPI
+A-00043,2024-02-12,FreshWash Dish Soap 500ml,Home Care,48,859.15,West Zone,Card
+A-00044,2024-06-11,FreshWash Detergent Powder 1kg,Home Care,46,411.11,West Zone,UPI
+A-00045,2023-12-13,Sunrich Cooking Oil 5L,Edible Oils,47,354.72,West Zone,Credit
+A-00046,2023-03-07,CrunchTime Biscuits 200g,Snacks,40,294.09,North Zone,Card
+A-00047,2023-07-05,GoldTea Premium 250g,Beverages,18,74.05,East Zone,Card
+A-00048,2024-06-11,PureBite Atta 5kg,Staples,17,389.12,West Zone,UPI
+A-00049,2023-03-16,PureBite Rice 5kg,Staples,12,405.77,East Zone,Cash
+A-00050,2023-03-10,Sunrich Cooking Oil 5L,Edible Oils,39,776.36,East Zone,Cash
+A-00051,2023-10-02,CrunchTime Biscuits 200g,Snacks,27,836.94,South Zone,Cash
+A-00052,2023-07-05,Sunrich Cooking Oil 5L,Edible Oils,11,265.23,South Zone,UPI
+A-00053,2023-07-02,FreshWash Dish Soap 500ml,Home Care,19,423.29,East Zone,UPI
+A-00054,2024-06-01,Sunrich Cooking Oil 1L,Edible Oils,1,55.85,South Zone,Credit
+A-00055,2024-05-21,PureBite Atta 5kg,Staples,42,411.67,West Zone,UPI
+A-00056,2023-05-24,GoldTea Green Tea 100g,Beverages,13,755.77,West Zone,UPI
+A-00057,2023-09-19,Sunrich Cooking Oil 1L,Edible Oils,5,577.89,West Zone,Card
+A-00058,2023-10-16,SoftCare Shampoo 200ml,Personal Care,33,616.67,South Zone,UPI
+A-00059,2024-01-08,GoldTea Premium 250g,Beverages,29,43.12,East Zone,UPI
+A-00060,2023-01-02,GoldTea Premium 250g,Beverages,14,346.66,East Zone,Credit
+A-00061,2023-01-06,PureBite Atta 5kg,Staples,13,253.43,North Zone,UPI
+A-00062,2023-11-03,CrunchTime Chips 150g,Snacks,3,378.82,East Zone,Card
+A-00063,2024-02-03,FreshWash Detergent Powder 1kg,Home Care,43,807.81,East Zone,Credit
+A-00064,2024-06-09,PureBite Atta 5kg,Staples,10,77.66,West Zone,Card
+A-00065,2023-08-24,CrunchTime Chips 150g,Snacks,2,750.71,North Zone,Cash
+A-00066,2023-02-21,Sunrich Cooking Oil 5L,Edible Oils,,758.81,North Zone,Card
+A-00067,2023-04-05,Sunrich Cooking Oil 5L,Edible Oils,48,841.95,North Zone,Credit
+A-00068,2023-07-30,GoldTea Premium 250g,Beverages,16,667.23,South Zone,Credit
+A-00069,2023-02-17,SoftCare Body Wash 250ml,Personal Care,44,287.09,South Zone,Cash
+A-00070,2023-05-17,PureBite Atta 5kg,Staples,48,635.88,North Zone,Credit
+A-00071,2024-05-16,PureBite Atta 5kg,Staples,7,635.28,East Zone,UPI
+A-00072,2023-03-29,Sunrich Cooking Oil 5L,Edible Oils,36,211.36,West Zone,Cash
+A-00073,2024-02-01,CrunchTime Biscuits 200g,Snacks,29,894.81,South Zone,Card
+A-00074,2024-01-04,PureBite Rice 5kg,Staples,34,265.16,South Zone,UPI
+A-00075,2024-05-12,FreshWash Dish Soap 500ml,Home Care,32,812.03,West Zone,Cash
+A-00076,2023-05-25,PureBite Atta 5kg,Staples,29,388.66,West Zone,UPI
+A-00077,2023-12-13,GoldTea Green Tea 100g,Beverages,1,319.11,West Zone,Cash
+A-00078,2024-01-17,Sunrich Cooking Oil 1L,Edible Oils,48,289.26,North Zone,Credit
+A-00079,2023-10-09,Sunrich Cooking Oil 5L,Edible Oils,24,835.86,North Zone,UPI
+A-00080,2023-09-13,GoldTea Premium 250g,Beverages,41,844.61,East Zone,Credit
+A-00081,2024-02-14,GoldTea Green Tea 100g,Beverages,28,800.47,South Zone,Cash
+A-00082,2023-10-21,SoftCare Body Wash 250ml,Personal Care,40,687.29,West Zone,Cash
+A-00083,2023-10-16,FreshWash Detergent Powder 1kg,Home Care,31,396.79,East Zone,UPI
+A-00084,2023-11-05,GoldTea Premium 250g,Beverages,26,604.16,West Zone,Credit
+A-00085,2024-05-24,Sunrich Cooking Oil 5L,Edible Oils,14,470.52,South Zone,Credit
+A-00086,2023-07-17,SoftCare Body Wash 250ml,Personal Care,28,160.05,South Zone,Cash
+A-00087,2023-07-26,GoldTea Green Tea 100g,Beverages,16,356.74,North Zone,Credit
+A-00088,2023-03-05,FreshWash Dish Soap 500ml,Home Care,25,272.41,West Zone,UPI
+A-00089,2023-08-10,PureBite Atta 5kg,Staples,33,495.13,North Zone,UPI
+A-00090,2023-11-16,PureBite Atta 5kg,Staples,29,411.38,North Zone,Card
+A-00091,2023-03-16,SoftCare Body Wash 250ml,Personal Care,38,461.25,West Zone,Credit
+A-00092,2024-06-18,Sunrich Cooking Oil 5L,Edible Oils,15,172.77,North Zone,Credit
+A-00093,2023-02-08,Sunrich Cooking Oil 1L,Edible Oils,9,240.02,East Zone,Card
+A-00094,2023-04-12,SoftCare Shampoo 200ml,Personal Care,45,696.91,North Zone,UPI
+A-00095,2023-01-02,SoftCare Shampoo 200ml,Personal Care,17,232.28,North Zone,UPI
+A-00096,2023-09-06,GoldTea Green Tea 100g,Beverages,42,761.89,West Zone,Card
+A-00097,2023-02-26,SoftCare Shampoo 200ml,Personal Care,46,598.7,North Zone,Card
+A-00098,2024-03-10,SoftCare Shampoo 200ml,Personal Care,6,261.24,East Zone,Card
+A-00099,2024-02-10,PureBite Rice 5kg,Staples,27,351.6,South Zone,Cash
+A-00100,2023-07-25,CrunchTime Biscuits 200g,Snacks,5,216.49,East Zone,Card
+A-00101,2024-05-22,GoldTea Premium 250g,Beverages,7,858.66,South Zone,Card
+A-00102,2024-02-07,Sunrich Cooking Oil 1L,Edible Oils,39,165.89,North Zone,Card
+A-00103,2023-07-08,SoftCare Shampoo 200ml,Personal Care,4,650.48,West Zone,Credit
+A-00104,2023-06-19,PureBite Rice 5kg,Staples,8,897.88,East Zone,Card
+A-00105,2024-01-23,PureBite Rice 5kg,Staples,30,67.43,East Zone,UPI
+A-00106,2024-03-06,Sunrich Cooking Oil 5L,Edible Oils,18,109.46,North Zone,Card
+A-00107,2024-04-29,GoldTea Premium 250g,Beverages,28,115.47,South Zone,UPI
+A-00108,2024-04-30,GoldTea Green Tea 100g,Beverages,24,674.1,North Zone,Credit
+A-00109,2024-04-20,SoftCare Shampoo 200ml,Personal Care,3,362.99,North Zone,Cash
+A-00110,2023-12-10,CrunchTime Chips 150g,Snacks,22,352.16,North Zone,UPI
+A-00111,2023-03-08,GoldTea Premium 250g,Beverages,20,43.24,North Zone,Card
+A-00112,2023-09-15,SoftCare Body Wash 250ml,Personal Care,50,372.4,West Zone,Credit
+A-00113,2023-06-04,Sunrich Cooking Oil 1L,Edible Oils,48,300.85,South Zone,UPI
+A-00114,2024-02-06,CrunchTime Chips 150g,Snacks,6,480.22,South Zone,Card
+A-00115,2023-06-14,SoftCare Body Wash 250ml,Personal Care,36,508.37,West Zone,Cash
+A-00116,2024-05-25,Sunrich Cooking Oil 5L,Edible Oils,14,122.92,West Zone,Card
+A-00117,2023-05-05,CrunchTime Chips 150g,Snacks,44,242.04,East Zone,UPI
+A-00118,2024-03-25,GoldTea Premium 250g,Beverages,48,263.89,South Zone,Card
+A-00119,2024-02-10,CrunchTime Chips 150g,Snacks,13,320.65,East Zone,Card
+A-00120,2023-02-07,Sunrich Cooking Oil 5L,Edible Oils,42,438.97,North Zone,Cash
+A-00121,2023-10-28,SoftCare Body Wash 250ml,Personal Care,24,74.71,South Zone,Cash
+A-00122,2024-01-17,CrunchTime Chips 150g,Snacks,13,839.95,South Zone,Credit
+A-00123,2023-12-25,PureBite Atta 5kg,Staples,1,130.97,South Zone,Cash
+A-00124,2023-07-28,FreshWash Dish Soap 500ml,Home Care,17,72.88,North Zone,UPI
+A-00125,2023-02-02,CrunchTime Chips 150g,Snacks,20,107.02,West Zone,Credit
+A-00126,2024-06-30,SoftCare Shampoo 200ml,Personal Care,43,513.12,North Zone,Card
+A-00127,2023-02-22,GoldTea Premium 250g,Beverages,43,304.53,East Zone,UPI
+A-00128,2024-02-19,GoldTea Green Tea 100g,Beverages,42,209.59,South Zone,Cash
+A-00129,2024-01-09,Sunrich Cooking Oil 5L,Edible Oils,6,389.35,West Zone,Card
+A-00130,2024-02-11,FreshWash Detergent Powder 1kg,Home Care,42,733.56,North Zone,UPI
+A-00131,2023-06-25,GoldTea Green Tea 100g,Beverages,19,179.16,North Zone,Cash
+A-00132,2023-02-14,FreshWash Dish Soap 500ml,Home Care,20,148.92,West Zone,UPI
+A-00133,2023-06-14,SoftCare Shampoo 200ml,Personal Care,6,817.63,South Zone,Credit
+A-00134,2023-02-12,SoftCare Body Wash 250ml,Personal Care,12,526.27,West Zone,Card
+A-00135,2023-07-17,FreshWash Dish Soap 500ml,Home Care,47,741.46,North Zone,Cash
+A-00136,2023-11-10,SoftCare Shampoo 200ml,Personal Care,39,431.93,West Zone,UPI
+A-00137,2024-03-24,PureBite Atta 5kg,Staples,24,424.24,,Cash
+A-00138,2024-04-14,SoftCare Body Wash 250ml,Personal Care,16,424.26,South Zone,Credit
+A-00139,2024-03-28,GoldTea Green Tea 100g,Beverages,28,354.19,North Zone,Cash
+A-00140,2024-06-07,PureBite Rice 5kg,Staples,21,708.77,North Zone,Cash
+A-00141,2023-03-09,PureBite Atta 5kg,Staples,9,62.24,North Zone,Card
+A-00142,2023-08-15,GoldTea Premium 250g,Beverages,11,630.08,North Zone,UPI
+A-00143,2024-04-12,GoldTea Green Tea 100g,Beverages,40,276.49,South Zone,UPI
+A-00144,2024-06-02,FreshWash Dish Soap 500ml,Home Care,38,266.07,South Zone,UPI
+A-00145,2023-10-12,SoftCare Shampoo 200ml,Personal Care,11,587.45,East Zone,Credit
+A-00146,2024-01-04,Sunrich Cooking Oil 5L,Edible Oils,50,496.42,West Zone,Cash
+A-00147,2023-09-29,SoftCare Shampoo 200ml,Personal Care,48,726.0,West Zone,UPI
+A-00148,2023-02-19,Sunrich Cooking Oil 5L,Edible Oils,29,237.84,East Zone,UPI
+A-00149,2023-01-02,CrunchTime Chips 150g,Snacks,43,810.32,North Zone,Card
+A-00150,2023-02-18,SoftCare Shampoo 200ml,Personal Care,27,480.9,South Zone,Credit
+A-00151,2023-12-30,Sunrich Cooking Oil 1L,Edible Oils,4,42.25,East Zone,Cash
+A-00152,2023-05-17,SoftCare Shampoo 200ml,Personal Care,38,298.99,South Zone,UPI
+A-00153,2023-09-07,FreshWash Detergent Powder 1kg,Home Care,1,845.47,South Zone,Credit
+A-00154,2023-09-28,PureBite Atta 5kg,Staples,18,385.68,North Zone,Cash
+A-00155,2024-03-30,GoldTea Green Tea 100g,Beverages,,595.22,West Zone,Card
+A-00156,2023-07-10,Sunrich Cooking Oil 1L,Edible Oils,35,61.69,South Zone,Card
+A-00157,2023-07-21,Sunrich Cooking Oil 1L,Edible Oils,40,513.79,South Zone,Credit
+A-00158,2023-06-28,CrunchTime Biscuits 200g,Snacks,42,591.75,East Zone,Cash
+A-00159,2023-01-07,PureBite Rice 5kg,Staples,31,655.24,West Zone,Credit
+A-00160,2023-08-20,PureBite Rice 5kg,Staples,42,429.14,North Zone,UPI
+A-00161,2023-09-27,GoldTea Green Tea 100g,Beverages,48,835.65,North Zone,UPI
+A-00162,2023-10-30,PureBite Atta 5kg,Staples,34,875.83,South Zone,Cash
+A-00163,2023-07-27,GoldTea Premium 250g,Beverages,16,763.88,South Zone,UPI
+A-00164,2024-04-25,CrunchTime Chips 150g,Snacks,16,366.33,West Zone,Cash
+A-00165,2023-11-12,PureBite Rice 5kg,Staples,15,530.49,South Zone,Credit
+A-00166,2023-04-25,FreshWash Detergent Powder 1kg,Home Care,10,68.31,North Zone,Card
+A-00167,2023-02-13,Sunrich Cooking Oil 1L,Edible Oils,2,75.82,North Zone,Cash
+A-00168,2024-06-30,GoldTea Green Tea 100g,Beverages,13,743.1,North Zone,Credit
+A-00169,2023-03-31,Sunrich Cooking Oil 5L,Edible Oils,3,69.61,East Zone,Credit
+A-00170,2023-12-11,PureBite Atta 5kg,Staples,14,293.24,West Zone,UPI
+A-00171,2024-01-12,GoldTea Premium 250g,Beverages,4,655.56,East Zone,Credit
+A-00172,2024-06-15,Sunrich Cooking Oil 1L,Edible Oils,27,66.87,North Zone,UPI
+A-00173,2023-04-04,CrunchTime Chips 150g,Snacks,14,654.38,East Zone,Card
+A-00174,2023-02-25,GoldTea Premium 250g,Beverages,49,685.45,North Zone,UPI
+A-00175,2024-06-11,FreshWash Detergent Powder 1kg,Home Care,32,549.6,East Zone,Card
+A-00176,2023-04-23,PureBite Rice 5kg,Staples,15,468.55,North Zone,Credit
+A-00177,2023-04-08,Sunrich Cooking Oil 5L,Edible Oils,41,320.91,West Zone,Credit
+A-00178,2023-07-31,SoftCare Shampoo 200ml,Personal Care,42,61.65,East Zone,UPI
+A-00179,2023-08-28,FreshWash Detergent Powder 1kg,Home Care,25,884.87,West Zone,Card
+A-00180,2023-12-01,CrunchTime Chips 150g,Snacks,42,69.14,South Zone,Credit
+A-00181,2023-09-21,FreshWash Detergent Powder 1kg,Home Care,30,417.37,South Zone,Card
+A-00182,2023-10-01,PureBite Rice 5kg,Staples,16,476.62,East Zone,Card
+A-00183,2023-12-23,PureBite Rice 5kg,Staples,21,558.49,South Zone,Card
+A-00184,2023-04-15,PureBite Rice 5kg,Staples,7,181.56,South Zone,Credit
+A-00185,2023-10-08,GoldTea Premium 250g,Beverages,47,295.77,South Zone,Cash
+A-00186,2023-01-13,FreshWash Dish Soap 500ml,Home Care,25,438.97,West Zone,Credit
+A-00187,2023-05-26,PureBite Atta 5kg,Staples,19,438.42,,Credit
+A-00188,2024-03-07,SoftCare Shampoo 200ml,Personal Care,45,533.62,South Zone,Card
+A-00189,2023-04-11,SoftCare Body Wash 250ml,Personal Care,28,309.19,West Zone,Card
+A-00190,2024-03-09,PureBite Atta 5kg,Staples,11,255.05,West Zone,Credit
+A-00191,2023-07-07,CrunchTime Biscuits 200g,Snacks,44,608.55,East Zone,Cash
+A-00192,2023-08-12,Sunrich Cooking Oil 5L,Edible Oils,3,256.05,South Zone,Card
+A-00193,2024-05-02,CrunchTime Chips 150g,Snacks,30,505.29,North Zone,UPI
+A-00194,2023-07-08,SoftCare Body Wash 250ml,Personal Care,14,891.64,West Zone,Cash
+A-00195,2024-01-27,PureBite Atta 5kg,Staples,4,257.11,West Zone,Cash
+A-00196,2023-12-27,SoftCare Shampoo 200ml,Personal Care,41,640.5,East Zone,Cash
+A-00197,2024-02-06,CrunchTime Biscuits 200g,Snacks,15,895.04,West Zone,Card
+A-00198,2023-08-20,Sunrich Cooking Oil 5L,Edible Oils,41,206.13,South Zone,UPI
+A-00199,2023-05-09,SoftCare Shampoo 200ml,Personal Care,30,896.68,West Zone,UPI
+A-00200,2024-03-12,PureBite Rice 5kg,Staples,25,631.21,,Credit
+A-00201,2023-11-06,GoldTea Premium 250g,Beverages,23,250.67,East Zone,Credit
+A-00202,2023-06-06,Sunrich Cooking Oil 5L,Edible Oils,43,811.43,East Zone,Credit
+A-00203,2023-12-20,GoldTea Green Tea 100g,Beverages,9,496.36,North Zone,Cash
+A-00204,2023-05-27,GoldTea Premium 250g,Beverages,17,563.05,South Zone,Card
+A-00205,2023-06-21,FreshWash Detergent Powder 1kg,Home Care,14,817.52,North Zone,UPI
+A-00206,2024-03-25,CrunchTime Biscuits 200g,Snacks,6,678.04,North Zone,Cash
+A-00207,2023-03-01,FreshWash Detergent Powder 1kg,Home Care,31,464.05,West Zone,Credit
+A-00208,2023-01-07,FreshWash Dish Soap 500ml,Home Care,32,181.57,South Zone,UPI
+A-00209,2024-01-19,PureBite Atta 5kg,Staples,19,762.89,West Zone,Credit
+A-00210,2023-01-30,FreshWash Detergent Powder 1kg,Home Care,41,349.92,North Zone,Cash
+A-00211,2024-05-11,GoldTea Green Tea 100g,Beverages,7,479.14,South Zone,Cash
+A-00212,2024-01-10,FreshWash Detergent Powder 1kg,Home Care,22,121.24,East Zone,Credit
+A-00213,2024-03-08,FreshWash Dish Soap 500ml,Home Care,19,414.26,East Zone,Cash
+A-00214,2023-10-06,SoftCare Body Wash 250ml,Personal Care,26,327.0,East Zone,Card
+A-00215,2023-11-03,GoldTea Green Tea 100g,Beverages,13,312.7,South Zone,Cash
+A-00216,2023-02-20,PureBite Rice 5kg,Staples,36,801.62,West Zone,UPI
+A-00217,2023-03-03,SoftCare Body Wash 250ml,Personal Care,39,698.75,West Zone,Card
+A-00218,2023-02-10,CrunchTime Chips 150g,Snacks,44,111.38,West Zone,Card
+A-00219,2023-01-14,Sunrich Cooking Oil 1L,Edible Oils,27,706.1,East Zone,Card
+A-00220,2023-02-05,GoldTea Premium 250g,Beverages,20,198.91,East Zone,Cash
+A-00221,2023-02-10,Sunrich Cooking Oil 1L,Edible Oils,32,528.06,North Zone,Credit
+A-00222,2024-02-01,SoftCare Body Wash 250ml,Personal Care,5,52.15,South Zone,Credit
+A-00223,2023-06-05,Sunrich Cooking Oil 5L,Edible Oils,42,446.09,,Credit
+A-00224,2023-05-05,Sunrich Cooking Oil 5L,Edible Oils,6,227.69,South Zone,Credit
+A-00225,2023-07-11,FreshWash Dish Soap 500ml,Home Care,29,670.86,North Zone,UPI
+A-00226,2023-10-28,FreshWash Detergent Powder 1kg,Home Care,47,693.04,West Zone,Credit
+A-00227,2023-03-04,Sunrich Cooking Oil 1L,Edible Oils,46,67.49,North Zone,Cash
+A-00228,2024-05-13,CrunchTime Chips 150g,Snacks,11,863.62,North Zone,UPI
+A-00229,2023-05-29,SoftCare Body Wash 250ml,Personal Care,31,622.12,North Zone,UPI
+A-00230,2024-04-08,SoftCare Shampoo 200ml,Personal Care,31,371.73,East Zone,UPI
+A-00231,2023-12-07,PureBite Atta 5kg,Staples,46,729.66,North Zone,Card
+A-00232,2024-01-21,SoftCare Shampoo 200ml,Personal Care,,363.94,South Zone,Credit
+A-00233,2023-02-13,GoldTea Premium 250g,Beverages,18,403.35,East Zone,Card
+A-00234,2024-05-26,CrunchTime Chips 150g,Snacks,10,275.51,East Zone,Cash
+A-00235,2023-08-28,SoftCare Shampoo 200ml,Personal Care,13,717.41,East Zone,Cash
+A-00236,2023-01-10,FreshWash Dish Soap 500ml,Home Care,17,544.29,West Zone,Credit
+A-00237,2024-02-12,GoldTea Green Tea 100g,Beverages,50,93.86,East Zone,UPI
+A-00238,2023-07-05,FreshWash Dish Soap 500ml,Home Care,14,205.39,East Zone,UPI
+A-00239,2024-05-20,CrunchTime Biscuits 200g,Snacks,10,251.82,East Zone,Cash
+A-00240,2023-02-01,Sunrich Cooking Oil 5L,Edible Oils,10,311.58,East Zone,UPI
+A-00241,2024-05-12,Sunrich Cooking Oil 1L,Edible Oils,14,891.75,South Zone,UPI
+A-00242,2023-05-15,Sunrich Cooking Oil 5L,Edible Oils,29,699.83,East Zone,Cash
+A-00243,2023-02-05,SoftCare Shampoo 200ml,Personal Care,6,63.67,East Zone,Credit
+A-00244,2023-05-03,Sunrich Cooking Oil 5L,Edible Oils,39,590.26,North Zone,UPI
+A-00245,2023-07-07,Sunrich Cooking Oil 5L,Edible Oils,43,475.59,West Zone,Card
+A-00246,2023-09-20,PureBite Rice 5kg,Staples,15,188.03,East Zone,Cash
+A-00247,2024-05-10,Sunrich Cooking Oil 1L,Edible Oils,17,716.28,North Zone,Cash
+A-00248,2024-03-27,FreshWash Dish Soap 500ml,Home Care,44,683.47,North Zone,Credit
+A-00249,2023-06-22,Sunrich Cooking Oil 5L,Edible Oils,24,453.93,West Zone,Card
+A-00250,2023-07-19,Sunrich Cooking Oil 1L,Edible Oils,30,656.81,North Zone,Card
+A-00251,2023-05-24,CrunchTime Chips 150g,Snacks,24,804.29,West Zone,Cash
+A-00252,2023-12-14,Sunrich Cooking Oil 1L,Edible Oils,41,104.63,East Zone,Card
+A-00253,2023-02-28,FreshWash Detergent Powder 1kg,Home Care,22,230.62,South Zone,Credit
+A-00254,2023-09-10,FreshWash Detergent Powder 1kg,Home Care,18,399.71,South Zone,Cash
+A-00255,2023-04-22,GoldTea Green Tea 100g,Beverages,11,264.18,East Zone,Credit
+A-00256,2023-08-05,CrunchTime Biscuits 200g,Snacks,4,582.66,West Zone,UPI
+A-00257,2023-09-02,GoldTea Green Tea 100g,Beverages,28,892.28,South Zone,Cash
+A-00258,2023-10-28,FreshWash Detergent Powder 1kg,Home Care,4,755.8,South Zone,Cash
+A-00259,2024-06-23,CrunchTime Biscuits 200g,Snacks,9,420.99,East Zone,Card
+A-00260,2023-07-05,SoftCare Shampoo 200ml,Personal Care,14,278.09,South Zone,Card
+A-00261,2023-03-31,FreshWash Detergent Powder 1kg,Home Care,13,556.56,West Zone,UPI
+A-00262,2023-07-16,PureBite Atta 5kg,Staples,46,580.46,East Zone,Card
+A-00263,2023-02-26,CrunchTime Biscuits 200g,Snacks,27,763.32,East Zone,UPI
+A-00264,2024-05-03,SoftCare Body Wash 250ml,Personal Care,6,53.28,South Zone,UPI
+A-00265,2024-01-16,GoldTea Green Tea 100g,Beverages,3,180.6,North Zone,UPI
+A-00266,2023-09-08,CrunchTime Biscuits 200g,Snacks,5,143.86,East Zone,Credit
+A-00267,2024-05-21,GoldTea Premium 250g,Beverages,7,860.48,West Zone,Cash
+A-00268,2023-08-18,Sunrich Cooking Oil 1L,Edible Oils,16,871.99,South Zone,Card
+A-00269,2023-07-19,Sunrich Cooking Oil 1L,Edible Oils,2,122.97,East Zone,Cash
+A-00270,2024-03-30,SoftCare Body Wash 250ml,Personal Care,34,245.0,North Zone,UPI
+A-00271,2024-05-20,Sunrich Cooking Oil 1L,Edible Oils,18,145.82,East Zone,Cash
+A-00272,2023-08-21,FreshWash Detergent Powder 1kg,Home Care,35,548.96,South Zone,Credit
+A-00273,2024-03-06,Sunrich Cooking Oil 1L,Edible Oils,41,374.32,North Zone,Credit
+A-00274,2023-12-10,GoldTea Green Tea 100g,Beverages,22,384.61,West Zone,UPI
+A-00275,2023-12-28,Sunrich Cooking Oil 1L,Edible Oils,21,484.94,South Zone,Credit
+A-00276,2023-11-29,Sunrich Cooking Oil 5L,Edible Oils,34,201.25,West Zone,Card
+A-00277,2024-04-09,FreshWash Detergent Powder 1kg,Home Care,27,873.94,North Zone,Cash
+A-00278,2023-02-06,GoldTea Premium 250g,Beverages,44,576.18,North Zone,UPI
+A-00279,2023-11-09,FreshWash Dish Soap 500ml,Home Care,3,287.27,East Zone,Card
+A-00280,2024-06-30,CrunchTime Biscuits 200g,Snacks,18,112.65,South Zone,Credit
+A-00281,2023-10-08,GoldTea Premium 250g,Beverages,27,536.52,South Zone,Cash
+A-00282,2023-08-15,SoftCare Body Wash 250ml,Personal Care,40,637.56,West Zone,Card
+A-00283,2024-04-25,CrunchTime Biscuits 200g,Snacks,20,567.01,East Zone,Cash
+A-00284,2024-02-10,CrunchTime Biscuits 200g,Snacks,35,369.53,North Zone,UPI
+A-00285,2023-10-04,GoldTea Green Tea 100g,Beverages,36,319.91,East Zone,Card
+A-00286,2023-12-23,FreshWash Detergent Powder 1kg,Home Care,36,97.45,West Zone,Cash
+A-00287,2024-06-17,GoldTea Green Tea 100g,Beverages,48,696.05,South Zone,Card
+A-00288,2023-10-11,FreshWash Detergent Powder 1kg,Home Care,44,214.14,North Zone,Credit
+A-00289,2023-04-16,PureBite Atta 5kg,Staples,46,149.45,North Zone,Credit
+A-00290,2023-06-03,SoftCare Body Wash 250ml,Personal Care,26,867.96,West Zone,UPI
+A-00291,2023-10-22,SoftCare Shampoo 200ml,Personal Care,29,635.67,East Zone,UPI
+A-00292,2023-01-07,CrunchTime Chips 150g,Snacks,25,597.45,West Zone,Credit
+A-00293,2024-01-22,GoldTea Premium 250g,Beverages,10,414.66,South Zone,Cash
+A-00294,2023-07-29,CrunchTime Chips 150g,Snacks,16,864.54,West Zone,Cash
+A-00295,2023-11-16,SoftCare Body Wash 250ml,Personal Care,20,831.47,West Zone,Credit
+A-00296,2023-01-11,CrunchTime Chips 150g,Snacks,44,341.95,North Zone,Card
+A-00297,2023-06-07,SoftCare Shampoo 200ml,Personal Care,42,522.75,South Zone,Credit
+A-00298,2024-06-26,CrunchTime Chips 150g,Snacks,38,335.22,North Zone,Card
+A-00299,2023-04-24,Sunrich Cooking Oil 5L,Edible Oils,20,480.83,East Zone,UPI
+A-00300,2023-10-24,SoftCare Shampoo 200ml,Personal Care,41,174.5,South Zone,Card
+A-00301,2023-02-13,CrunchTime Chips 150g,Snacks,39,131.69,West Zone,Cash
+A-00302,2023-11-08,PureBite Rice 5kg,Staples,36,43.37,West Zone,Cash
+A-00303,2023-09-30,FreshWash Dish Soap 500ml,Home Care,12,468.16,South Zone,Card
+A-00304,2023-04-20,FreshWash Detergent Powder 1kg,Home Care,34,693.17,North Zone,Cash
+A-00305,2023-03-05,SoftCare Body Wash 250ml,Personal Care,30,567.18,North Zone,UPI
+A-00306,2023-04-12,GoldTea Premium 250g,Beverages,11,68.29,North Zone,UPI
+A-00307,2024-02-10,Sunrich Cooking Oil 1L,Edible Oils,4,229.24,North Zone,Credit
+A-00308,2023-06-27,FreshWash Dish Soap 500ml,Home Care,3,177.09,East Zone,Cash
+A-00309,2024-05-22,GoldTea Premium 250g,Beverages,27,558.2,North Zone,Card
+A-00310,2024-02-13,CrunchTime Chips 150g,Snacks,15,395.61,West Zone,Cash
+A-00311,2023-07-11,FreshWash Detergent Powder 1kg,Home Care,11,348.22,North Zone,UPI
+A-00312,2023-12-10,GoldTea Green Tea 100g,Beverages,35,789.48,West Zone,Cash
+A-00313,2023-07-15,GoldTea Green Tea 100g,Beverages,36,250.64,West Zone,UPI
+A-00314,2023-06-09,GoldTea Premium 250g,Beverages,43,61.74,South Zone,Card
+A-00315,2023-09-03,FreshWash Detergent Powder 1kg,Home Care,36,421.25,South Zone,UPI
+A-00316,2023-08-02,SoftCare Shampoo 200ml,Personal Care,41,864.23,East Zone,Credit
+A-00317,2023-09-25,SoftCare Body Wash 250ml,Personal Care,44,152.61,West Zone,UPI
+A-00318,2023-05-06,CrunchTime Biscuits 200g,Snacks,14,147.94,North Zone,UPI
+A-00319,2023-05-29,Sunrich Cooking Oil 1L,Edible Oils,43,657.68,East Zone,Cash
+A-00320,2023-11-25,FreshWash Detergent Powder 1kg,Home Care,50,771.86,South Zone,Cash
+A-00321,2023-03-09,CrunchTime Biscuits 200g,Snacks,49,295.38,East Zone,Cash
+A-00322,2024-02-18,PureBite Rice 5kg,Staples,26,282.83,West Zone,Card
+A-00323,2023-12-26,GoldTea Green Tea 100g,Beverages,44,727.48,West Zone,Cash
+A-00324,2023-04-11,FreshWash Dish Soap 500ml,Home Care,26,342.82,South Zone,UPI
+A-00325,2023-02-11,PureBite Rice 5kg,Staples,15,652.82,West Zone,Cash
+A-00326,2023-02-10,GoldTea Premium 250g,Beverages,10,367.44,East Zone,Card
+A-00327,2024-03-21,SoftCare Body Wash 250ml,Personal Care,46,487.87,East Zone,Cash
+A-00328,2023-02-18,PureBite Atta 5kg,Staples,19,814.92,South Zone,Cash
+A-00329,2024-03-03,GoldTea Green Tea 100g,Beverages,48,825.74,West Zone,Card
+A-00330,2024-05-30,SoftCare Shampoo 200ml,Personal Care,29,839.98,West Zone,Cash
+A-00331,2023-05-11,PureBite Atta 5kg,Staples,33,768.05,West Zone,Card
+A-00332,2023-06-17,CrunchTime Biscuits 200g,Snacks,17,190.1,South Zone,UPI
+A-00333,2023-07-26,GoldTea Green Tea 100g,Beverages,23,394.01,East Zone,Card
+A-00334,2023-09-05,PureBite Atta 5kg,Staples,31,244.57,North Zone,Credit
+A-00335,2023-05-26,PureBite Rice 5kg,Staples,20,154.72,South Zone,UPI
+A-00336,2023-06-08,SoftCare Shampoo 200ml,Personal Care,49,849.45,West Zone,Credit
+A-00337,2023-07-31,GoldTea Premium 250g,Beverages,1,350.01,North Zone,Cash
+A-00338,2023-04-26,Sunrich Cooking Oil 5L,Edible Oils,45,305.67,South Zone,UPI
+A-00339,2023-02-16,GoldTea Premium 250g,Beverages,11,519.48,North Zone,Credit
+A-00340,2023-09-28,Sunrich Cooking Oil 5L,Edible Oils,48,656.74,North Zone,Credit
+A-00341,2023-04-04,CrunchTime Biscuits 200g,Snacks,21,47.14,East Zone,UPI
+A-00342,2024-02-09,PureBite Rice 5kg,Staples,2,61.75,South Zone,UPI
+A-00343,2023-11-14,CrunchTime Biscuits 200g,Snacks,44,184.87,East Zone,Credit
+A-00344,2024-01-14,GoldTea Green Tea 100g,Beverages,15,356.93,East Zone,Card
+A-00345,2023-02-21,PureBite Atta 5kg,Staples,46,386.77,South Zone,Credit
+A-00346,2023-03-24,GoldTea Premium 250g,Beverages,39,539.76,South Zone,Card
+A-00347,2024-03-26,SoftCare Shampoo 200ml,Personal Care,6,881.97,West Zone,Card
+A-00348,2024-06-07,Sunrich Cooking Oil 1L,Edible Oils,40,775.58,West Zone,Card
+A-00349,2023-12-13,CrunchTime Biscuits 200g,Snacks,46,402.24,,Credit
+A-00350,2023-10-30,FreshWash Detergent Powder 1kg,Home Care,47,181.44,North Zone,Credit
+A-00351,2023-11-28,CrunchTime Chips 150g,Snacks,13,443.2,West Zone,Credit
+A-00352,2023-03-25,FreshWash Detergent Powder 1kg,Home Care,26,867.16,North Zone,UPI
+A-00353,2024-05-07,CrunchTime Chips 150g,Snacks,27,859.42,South Zone,UPI
+A-00354,2023-08-16,PureBite Atta 5kg,Staples,2,769.37,West Zone,Cash
+A-00355,2024-01-04,CrunchTime Biscuits 200g,Snacks,38,851.13,South Zone,Credit
+A-00356,2023-04-25,FreshWash Detergent Powder 1kg,Home Care,13,511.38,South Zone,UPI
+A-00357,2023-08-21,PureBite Atta 5kg,Staples,17,649.82,West Zone,Card
+A-00358,2023-03-24,PureBite Rice 5kg,Staples,33,821.96,West Zone,Cash
+A-00359,2023-04-28,CrunchTime Biscuits 200g,Snacks,36,476.22,North Zone,Credit
+A-00360,2023-04-06,FreshWash Detergent Powder 1kg,Home Care,13,524.21,South Zone,UPI
+A-00361,2023-01-16,FreshWash Dish Soap 500ml,Home Care,4,360.22,South Zone,Credit
+A-00362,2023-07-26,SoftCare Shampoo 200ml,Personal Care,6,574.21,North Zone,UPI
+A-00363,2023-01-12,GoldTea Green Tea 100g,Beverages,49,673.02,East Zone,Cash
+A-00364,2023-02-14,CrunchTime Biscuits 200g,Snacks,23,660.73,East Zone,Cash
+A-00365,2023-09-06,CrunchTime Chips 150g,Snacks,8,69.37,East Zone,UPI
+A-00366,2023-01-22,CrunchTime Chips 150g,Snacks,29,137.68,West Zone,Cash
+A-00367,2024-01-25,FreshWash Detergent Powder 1kg,Home Care,36,840.75,South Zone,UPI
+A-00368,2023-12-17,GoldTea Premium 250g,Beverages,29,51.87,South Zone,Credit
+A-00369,2024-02-06,Sunrich Cooking Oil 1L,Edible Oils,5,196.77,West Zone,Card
+A-00370,2024-01-05,FreshWash Dish Soap 500ml,Home Care,40,484.62,East Zone,Card
+A-00371,2024-01-05,CrunchTime Chips 150g,Snacks,3,221.79,West Zone,UPI
+A-00372,2024-05-10,GoldTea Green Tea 100g,Beverages,21,45.15,East Zone,Card
+A-00373,2023-05-28,CrunchTime Chips 150g,Snacks,3,582.55,East Zone,Credit
+A-00374,2024-06-24,GoldTea Premium 250g,Beverages,23,529.31,South Zone,Cash
+A-00375,2023-04-12,Sunrich Cooking Oil 5L,Edible Oils,13,705.9,East Zone,UPI
+A-00376,2023-12-16,FreshWash Detergent Powder 1kg,Home Care,44,101.95,East Zone,Card
+A-00377,2023-12-12,SoftCare Shampoo 200ml,Personal Care,22,91.99,East Zone,Credit
+A-00378,2023-07-30,FreshWash Dish Soap 500ml,Home Care,23,169.7,North Zone,Credit
+A-00379,2023-05-28,GoldTea Premium 250g,Beverages,11,544.64,East Zone,UPI
+A-00380,2023-07-14,PureBite Atta 5kg,Staples,22,103.21,North Zone,Card
+A-00381,2024-03-14,SoftCare Body Wash 250ml,Personal Care,23,874.68,North Zone,Credit
+A-00382,2023-06-18,GoldTea Premium 250g,Beverages,35,59.84,East Zone,Card
+A-00383,2023-10-17,SoftCare Shampoo 200ml,Personal Care,29,212.3,North Zone,Card
+A-00384,2023-03-17,FreshWash Detergent Powder 1kg,Home Care,39,81.8,,Card
+A-00385,2023-01-29,PureBite Atta 5kg,Staples,1,590.31,South Zone,UPI
+A-00386,2023-12-12,PureBite Atta 5kg,Staples,32,388.57,South Zone,Cash
+A-00387,2024-05-21,Sunrich Cooking Oil 5L,Edible Oils,41,567.0,West Zone,UPI
+A-00388,2023-11-17,Sunrich Cooking Oil 1L,Edible Oils,21,525.16,North Zone,Credit
+A-00389,2023-06-09,GoldTea Green Tea 100g,Beverages,11,120.37,South Zone,Card
+A-00390,2023-06-07,GoldTea Green Tea 100g,Beverages,24,403.98,East Zone,Card
+A-00391,2023-11-13,PureBite Rice 5kg,Staples,31,696.45,West Zone,UPI
+A-00392,2024-05-02,GoldTea Premium 250g,Beverages,9,257.51,North Zone,UPI
+A-00393,2023-01-29,SoftCare Shampoo 200ml,Personal Care,49,882.01,South Zone,Cash
+A-00394,2024-01-10,CrunchTime Biscuits 200g,Snacks,50,196.36,South Zone,Card
+A-00395,2023-09-06,FreshWash Detergent Powder 1kg,Home Care,34,64.98,West Zone,Credit
+A-00396,2023-01-28,SoftCare Shampoo 200ml,Personal Care,30,222.4,North Zone,Cash
+A-00397,2023-03-03,SoftCare Shampoo 200ml,Personal Care,44,783.09,South Zone,Credit
+A-00398,2023-02-01,PureBite Atta 5kg,Staples,41,779.89,East Zone,Cash
+A-00399,2024-03-11,FreshWash Dish Soap 500ml,Home Care,23,214.76,East Zone,UPI
+A-00400,2023-10-01,CrunchTime Chips 150g,Snacks,11,450.54,South Zone,UPI
+A-00401,2024-04-08,SoftCare Body Wash 250ml,Personal Care,16,178.97,South Zone,Cash
+A-00402,2024-03-25,PureBite Rice 5kg,Staples,24,79.72,South Zone,Credit
+A-00403,2023-04-25,GoldTea Premium 250g,Beverages,44,61.0,South Zone,Cash
+A-00404,2023-06-22,CrunchTime Biscuits 200g,Snacks,48,342.44,West Zone,Credit
+A-00405,2023-12-10,PureBite Atta 5kg,Staples,46,381.14,North Zone,Card
+A-00406,2023-08-26,Sunrich Cooking Oil 1L,Edible Oils,3,155.96,West Zone,Cash
+A-00407,2023-05-04,GoldTea Green Tea 100g,Beverages,,795.57,West Zone,Card
+A-00408,2024-05-27,FreshWash Dish Soap 500ml,Home Care,44,504.78,North Zone,UPI
+A-00409,2023-08-18,Sunrich Cooking Oil 5L,Edible Oils,23,874.62,North Zone,UPI
+A-00410,2023-07-21,GoldTea Premium 250g,Beverages,5,871.04,North Zone,Credit
+A-00411,2023-02-12,GoldTea Premium 250g,Beverages,1,320.11,West Zone,UPI
+A-00412,2024-03-08,PureBite Rice 5kg,Staples,46,270.99,East Zone,Credit
+A-00413,2023-01-06,SoftCare Shampoo 200ml,Personal Care,27,731.23,South Zone,UPI
+A-00414,2023-03-30,FreshWash Dish Soap 500ml,Home Care,13,610.55,North Zone,Cash
+A-00415,2023-11-20,PureBite Atta 5kg,Staples,42,420.49,West Zone,Cash
+A-00416,2024-01-25,SoftCare Body Wash 250ml,Personal Care,33,334.43,South Zone,Credit
+A-00417,2023-11-26,CrunchTime Biscuits 200g,Snacks,18,567.02,North Zone,Card
+A-00418,2023-12-23,GoldTea Premium 250g,Beverages,31,777.63,West Zone,Card
+A-00419,2024-06-24,CrunchTime Biscuits 200g,Snacks,24,490.58,South Zone,UPI
+A-00420,2023-02-14,PureBite Atta 5kg,Staples,30,192.83,East Zone,Credit
+A-00421,2023-09-15,SoftCare Shampoo 200ml,Personal Care,8,392.62,West Zone,Cash
+A-00422,2023-04-01,CrunchTime Biscuits 200g,Snacks,34,300.06,East Zone,Credit
+A-00423,2023-06-28,Sunrich Cooking Oil 5L,Edible Oils,29,585.79,South Zone,Cash
+A-00424,2024-01-15,CrunchTime Biscuits 200g,Snacks,43,244.36,East Zone,Credit
+A-00425,2023-07-02,Sunrich Cooking Oil 1L,Edible Oils,37,263.31,East Zone,UPI
+A-00426,2024-05-20,GoldTea Premium 250g,Beverages,29,118.54,North Zone,Card
+A-00427,2023-02-14,GoldTea Premium 250g,Beverages,40,711.71,West Zone,Credit
+A-00428,2023-09-20,GoldTea Premium 250g,Beverages,27,410.63,East Zone,Card
+A-00429,2024-01-17,CrunchTime Chips 150g,Snacks,13,880.81,North Zone,Card
+A-00430,2024-02-29,SoftCare Body Wash 250ml,Personal Care,25,378.2,West Zone,Cash
+A-00431,2024-02-29,SoftCare Body Wash 250ml,Personal Care,45,762.04,West Zone,Card
+A-00432,2023-01-10,SoftCare Body Wash 250ml,Personal Care,9,480.14,South Zone,Card
+A-00433,2024-02-01,PureBite Atta 5kg,Staples,19,516.31,West Zone,Cash
+A-00434,2023-04-01,CrunchTime Chips 150g,Snacks,1,127.47,South Zone,Credit
+A-00435,2023-02-26,PureBite Rice 5kg,Staples,22,455.2,West Zone,Card
+A-00436,2023-07-14,PureBite Atta 5kg,Staples,10,315.62,North Zone,Card
+A-00437,2023-09-19,GoldTea Premium 250g,Beverages,6,309.21,East Zone,Credit
+A-00438,2024-01-25,Sunrich Cooking Oil 1L,Edible Oils,20,301.86,West Zone,UPI
+A-00439,2024-04-20,FreshWash Dish Soap 500ml,Home Care,35,600.94,West Zone,Card
+A-00440,2023-02-22,FreshWash Dish Soap 500ml,Home Care,30,830.67,East Zone,Cash
+A-00441,2023-08-13,CrunchTime Chips 150g,Snacks,21,70.37,West Zone,UPI
+A-00442,2024-03-31,CrunchTime Chips 150g,Snacks,40,430.97,South Zone,Card
+A-00443,2023-03-15,PureBite Atta 5kg,Staples,8,82.11,West Zone,Card
+A-00444,2023-10-29,PureBite Rice 5kg,Staples,11,468.47,South Zone,Card
+A-00445,2023-04-08,FreshWash Dish Soap 500ml,Home Care,34,126.74,South Zone,Cash
+A-00446,2024-03-29,PureBite Atta 5kg,Staples,17,647.34,West Zone,Card
+A-00447,2024-04-02,FreshWash Detergent Powder 1kg,Home Care,3,177.72,East Zone,Card
+A-00448,2023-11-13,PureBite Rice 5kg,Staples,36,658.65,East Zone,UPI
+A-00449,2023-02-03,PureBite Atta 5kg,Staples,15,376.69,East Zone,Credit
+A-00450,2023-07-22,PureBite Atta 5kg,Staples,35,637.01,West Zone,Card
+A-00451,2023-12-27,PureBite Atta 5kg,Staples,26,138.36,North Zone,Card
+A-00452,2023-12-23,CrunchTime Biscuits 200g,Snacks,5,290.05,North Zone,Credit
+A-00453,2023-11-07,FreshWash Dish Soap 500ml,Home Care,32,280.8,North Zone,Card
+A-00454,2023-02-03,FreshWash Dish Soap 500ml,Home Care,38,835.16,North Zone,Cash
+A-00455,2023-12-08,PureBite Atta 5kg,Staples,20,83.05,East Zone,Credit
+A-00456,2023-11-02,GoldTea Green Tea 100g,Beverages,12,134.3,North Zone,Credit
+A-00457,2023-02-06,FreshWash Detergent Powder 1kg,Home Care,39,378.21,North Zone,Cash
+A-00458,2023-12-28,PureBite Atta 5kg,Staples,45,153.49,North Zone,UPI
+A-00459,2023-04-03,GoldTea Green Tea 100g,Beverages,11,609.96,East Zone,Cash
+A-00460,2023-04-07,SoftCare Body Wash 250ml,Personal Care,20,168.17,North Zone,Card
+A-00461,2024-04-24,CrunchTime Biscuits 200g,Snacks,35,141.12,South Zone,Card
+A-00462,2023-10-18,GoldTea Premium 250g,Beverages,24,856.48,West Zone,Card
+A-00463,2023-04-08,PureBite Rice 5kg,Staples,35,471.54,North Zone,Cash
+A-00464,2023-08-23,PureBite Rice 5kg,Staples,37,221.41,North Zone,Card
+A-00465,2024-06-14,Sunrich Cooking Oil 1L,Edible Oils,28,378.21,North Zone,UPI
+A-00466,2023-09-07,PureBite Atta 5kg,Staples,38,227.16,North Zone,Card
+A-00467,2023-06-28,Sunrich Cooking Oil 5L,Edible Oils,3,224.81,East Zone,UPI
+A-00468,2024-02-26,CrunchTime Chips 150g,Snacks,12,49.26,West Zone,Cash
+A-00469,2023-06-04,PureBite Rice 5kg,Staples,33,623.77,East Zone,Card
+A-00470,2023-03-10,PureBite Atta 5kg,Staples,22,649.39,North Zone,Credit
+A-00471,2023-03-06,GoldTea Green Tea 100g,Beverages,5,686.26,South Zone,Cash
+A-00472,2023-12-24,Sunrich Cooking Oil 5L,Edible Oils,42,657.0,South Zone,Credit
+A-00473,2023-11-07,FreshWash Detergent Powder 1kg,Home Care,17,752.45,North Zone,Credit
+A-00474,2024-06-09,CrunchTime Chips 150g,Snacks,11,414.38,East Zone,Cash
+A-00475,2023-08-26,GoldTea Premium 250g,Beverages,49,761.0,South Zone,Card
+A-00476,2023-02-21,SoftCare Body Wash 250ml,Personal Care,37,820.98,West Zone,Credit
+A-00477,2023-03-31,GoldTea Green Tea 100g,Beverages,25,389.37,South Zone,UPI
+A-00478,2024-05-15,SoftCare Shampoo 200ml,Personal Care,20,43.87,North Zone,Cash
+A-00479,2023-05-30,SoftCare Shampoo 200ml,Personal Care,39,297.53,East Zone,Card
+A-00480,2023-12-10,SoftCare Body Wash 250ml,Personal Care,40,68.01,North Zone,UPI
+A-00481,2023-09-05,SoftCare Shampoo 200ml,Personal Care,43,502.83,North Zone,Card
+A-00482,2023-06-04,FreshWash Detergent Powder 1kg,Home Care,25,273.47,East Zone,Card
+A-00483,2023-11-23,CrunchTime Chips 150g,Snacks,,305.37,South Zone,Card
+A-00484,2024-04-10,FreshWash Detergent Powder 1kg,Home Care,7,852.7,East Zone,UPI
+A-00485,2024-01-21,PureBite Rice 5kg,Staples,49,481.93,South Zone,UPI
+A-00486,2023-10-30,CrunchTime Chips 150g,Snacks,22,421.92,East Zone,UPI
+A-00487,2023-03-03,SoftCare Shampoo 200ml,Personal Care,34,735.46,West Zone,Credit
+A-00488,2024-01-22,Sunrich Cooking Oil 1L,Edible Oils,44,142.39,West Zone,UPI
+A-00489,2023-02-05,PureBite Rice 5kg,Staples,39,684.84,East Zone,Credit
+A-00490,2024-06-04,GoldTea Premium 250g,Beverages,10,201.39,North Zone,Credit
+A-00491,2023-10-26,GoldTea Premium 250g,Beverages,41,695.71,North Zone,Credit
+A-00492,2024-05-19,Sunrich Cooking Oil 5L,Edible Oils,44,589.92,East Zone,UPI
+A-00493,2023-12-22,SoftCare Body Wash 250ml,Personal Care,4,722.55,South Zone,Card
+A-00494,2023-06-24,FreshWash Detergent Powder 1kg,Home Care,20,674.98,East Zone,Cash
+A-00495,2023-11-13,GoldTea Green Tea 100g,Beverages,45,200.95,West Zone,Card
+A-00496,2024-01-06,SoftCare Shampoo 200ml,Personal Care,7,626.14,West Zone,UPI
+A-00497,2024-04-06,GoldTea Premium 250g,Beverages,8,215.42,West Zone,Card
+A-00498,2024-04-26,FreshWash Detergent Powder 1kg,Home Care,18,691.09,West Zone,Cash
+A-00499,2023-05-05,SoftCare Shampoo 200ml,Personal Care,34,737.44,East Zone,Credit
+A-00500,2024-01-04,PureBite Rice 5kg,Staples,37,302.8,East Zone,Card
+A-00501,2024-02-27,Sunrich Cooking Oil 5L,Edible Oils,49,558.37,North Zone,UPI
+A-00502,2023-05-01,PureBite Rice 5kg,Staples,41,678.43,West Zone,Credit
+A-00503,2023-12-11,GoldTea Green Tea 100g,Beverages,26,377.61,East Zone,Card
+A-00504,2023-10-23,PureBite Rice 5kg,Staples,34,395.73,South Zone,Card
+A-00505,2023-08-30,SoftCare Shampoo 200ml,Personal Care,5,471.84,West Zone,Credit
+A-00506,2023-09-02,PureBite Atta 5kg,Staples,9,169.99,North Zone,UPI
+A-00507,2023-05-15,PureBite Atta 5kg,Staples,25,795.65,West Zone,UPI
+A-00508,2023-08-07,CrunchTime Chips 150g,Snacks,33,274.8,South Zone,UPI
+A-00509,2024-06-13,Sunrich Cooking Oil 5L,Edible Oils,24,60.05,North Zone,Cash
+A-00510,2023-05-23,Sunrich Cooking Oil 1L,Edible Oils,30,581.15,West Zone,UPI
+A-00511,2023-02-03,CrunchTime Chips 150g,Snacks,36,552.28,North Zone,Credit
+A-00512,2024-06-27,PureBite Atta 5kg,Staples,22,869.66,South Zone,Card
+A-00513,2023-02-01,GoldTea Premium 250g,Beverages,37,501.88,South Zone,Card
+A-00514,2023-10-08,SoftCare Shampoo 200ml,Personal Care,24,94.23,North Zone,Cash
+A-00515,2023-02-26,CrunchTime Chips 150g,Snacks,27,234.6,East Zone,UPI
+A-00516,2024-03-17,PureBite Atta 5kg,Staples,31,535.02,West Zone,Credit
+A-00517,2023-07-18,Sunrich Cooking Oil 5L,Edible Oils,26,182.39,North Zone,Cash
+A-00518,2023-09-29,PureBite Rice 5kg,Staples,48,209.19,South Zone,UPI
+A-00519,2023-01-17,PureBite Rice 5kg,Staples,47,567.27,North Zone,UPI
+A-00520,2023-09-28,PureBite Atta 5kg,Staples,47,682.74,East Zone,Card
+A-00521,2023-06-29,GoldTea Green Tea 100g,Beverages,20,130.52,East Zone,Credit
+A-00522,2023-04-20,SoftCare Body Wash 250ml,Personal Care,50,127.85,South Zone,UPI
+A-00523,2024-05-02,Sunrich Cooking Oil 5L,Edible Oils,22,723.48,South Zone,Cash
+A-00524,2023-01-22,SoftCare Shampoo 200ml,Personal Care,14,344.28,South Zone,UPI
+A-00525,2024-01-29,SoftCare Shampoo 200ml,Personal Care,50,669.87,South Zone,Credit
+A-00526,2024-01-24,FreshWash Dish Soap 500ml,Home Care,47,543.4,North Zone,Cash
+A-00527,2023-07-28,Sunrich Cooking Oil 5L,Edible Oils,30,711.12,North Zone,UPI
+A-00528,2023-07-30,SoftCare Body Wash 250ml,Personal Care,32,701.28,North Zone,Card
+A-00529,2023-05-10,Sunrich Cooking Oil 5L,Edible Oils,7,548.45,South Zone,Credit
+A-00530,2024-03-26,PureBite Atta 5kg,Staples,44,648.01,North Zone,Cash
+A-00531,2023-09-03,PureBite Atta 5kg,Staples,44,781.22,West Zone,Credit
+A-00532,2023-09-02,SoftCare Body Wash 250ml,Personal Care,39,368.26,South Zone,Cash
+A-00533,2023-02-09,FreshWash Dish Soap 500ml,Home Care,41,675.1,South Zone,Cash
+A-00534,2024-02-16,Sunrich Cooking Oil 1L,Edible Oils,3,441.22,South Zone,Card
+A-00535,2024-02-28,CrunchTime Biscuits 200g,Snacks,41,537.13,East Zone,Cash
+A-00536,2023-04-09,Sunrich Cooking Oil 5L,Edible Oils,49,876.91,South Zone,Card
+A-00537,2024-01-26,CrunchTime Biscuits 200g,Snacks,21,130.98,North Zone,Cash
+A-00538,2023-03-21,Sunrich Cooking Oil 5L,Edible Oils,33,523.0,North Zone,UPI
+A-00539,2023-07-11,CrunchTime Biscuits 200g,Snacks,48,219.34,West Zone,Card
+A-00540,2023-04-24,FreshWash Dish Soap 500ml,Home Care,43,408.98,North Zone,UPI
+A-00541,2023-10-08,FreshWash Dish Soap 500ml,Home Care,7,117.21,East Zone,UPI
+A-00542,2023-07-16,CrunchTime Chips 150g,Snacks,37,881.57,North Zone,Cash
+A-00543,2024-06-16,PureBite Rice 5kg,Staples,50,554.94,West Zone,Credit
+A-00544,2023-03-23,CrunchTime Chips 150g,Snacks,42,221.31,North Zone,Cash
+A-00545,2024-03-17,PureBite Atta 5kg,Staples,9,770.98,North Zone,Card
+A-00546,2023-11-04,GoldTea Premium 250g,Beverages,46,155.36,East Zone,Cash
+A-00547,2024-04-29,SoftCare Body Wash 250ml,Personal Care,11,883.55,East Zone,UPI
+A-00548,2024-01-01,CrunchTime Biscuits 200g,Snacks,2,333.01,East Zone,Cash
+A-00549,2023-04-18,GoldTea Green Tea 100g,Beverages,6,497.53,North Zone,UPI
+A-00550,2024-04-14,Sunrich Cooking Oil 5L,Edible Oils,35,144.8,South Zone,Card
+A-00551,2024-02-22,CrunchTime Biscuits 200g,Snacks,16,846.63,North Zone,Card
+A-00552,2023-05-02,Sunrich Cooking Oil 1L,Edible Oils,46,263.76,South Zone,Credit
+A-00553,2023-09-12,PureBite Rice 5kg,Staples,19,687.69,East Zone,UPI
+A-00554,2023-05-26,FreshWash Dish Soap 500ml,Home Care,42,263.19,North Zone,Cash
+A-00555,2023-01-15,Sunrich Cooking Oil 5L,Edible Oils,47,97.54,North Zone,UPI
+A-00556,2024-06-06,PureBite Rice 5kg,Staples,32,597.62,East Zone,Credit
+A-00557,2023-06-27,GoldTea Premium 250g,Beverages,26,391.69,West Zone,Cash
+A-00558,2023-08-20,GoldTea Green Tea 100g,Beverages,14,66.4,North Zone,Card
+A-00559,2023-07-14,GoldTea Premium 250g,Beverages,40,48.43,North Zone,Cash
+A-00560,2023-07-04,CrunchTime Chips 150g,Snacks,20,608.65,North Zone,Card
+A-00561,2023-04-02,Sunrich Cooking Oil 1L,Edible Oils,25,258.39,South Zone,Cash
+A-00562,2023-06-30,FreshWash Detergent Powder 1kg,Home Care,23,352.72,South Zone,UPI
+A-00563,2023-04-25,GoldTea Green Tea 100g,Beverages,11,489.82,South Zone,Card
+A-00564,2023-08-13,Sunrich Cooking Oil 1L,Edible Oils,15,597.81,West Zone,UPI
+A-00565,2024-01-22,GoldTea Premium 250g,Beverages,1,83.49,East Zone,Card
+A-00566,2024-05-18,SoftCare Body Wash 250ml,Personal Care,8,134.5,North Zone,Credit
+A-00567,2023-03-04,FreshWash Detergent Powder 1kg,Home Care,15,406.21,North Zone,Card
+A-00568,2023-02-28,SoftCare Body Wash 250ml,Personal Care,16,845.47,North Zone,Card
+A-00569,2024-03-18,CrunchTime Chips 150g,Snacks,25,134.64,North Zone,Card
+A-00570,2024-05-03,GoldTea Green Tea 100g,Beverages,14,127.29,East Zone,Credit
+A-00571,2024-04-08,PureBite Rice 5kg,Staples,9,104.01,East Zone,Cash
+A-00572,2024-05-01,GoldTea Green Tea 100g,Beverages,5,142.95,West Zone,UPI
+A-00573,2024-04-26,PureBite Atta 5kg,Staples,33,816.29,North Zone,Card
+A-00574,2024-02-01,FreshWash Detergent Powder 1kg,Home Care,42,353.46,East Zone,Cash
+A-00575,2023-01-17,PureBite Atta 5kg,Staples,12,641.8,West Zone,Cash
+A-00576,2023-07-16,GoldTea Premium 250g,Beverages,29,878.89,East Zone,UPI
+A-00577,2023-01-13,SoftCare Shampoo 200ml,Personal Care,2,624.04,East Zone,Credit
+A-00578,2023-08-06,CrunchTime Biscuits 200g,Snacks,48,463.21,South Zone,Card
+A-00579,2023-11-26,SoftCare Body Wash 250ml,Personal Care,18,234.6,North Zone,Credit
+A-00580,2023-06-15,PureBite Rice 5kg,Staples,2,528.98,South Zone,Cash
+A-00581,2024-01-31,CrunchTime Chips 150g,Snacks,30,448.56,South Zone,UPI
+A-00582,2024-06-18,SoftCare Shampoo 200ml,Personal Care,10,822.92,South Zone,UPI
+A-00583,2024-04-08,FreshWash Dish Soap 500ml,Home Care,28,184.05,West Zone,UPI
+A-00584,2024-02-22,FreshWash Detergent Powder 1kg,Home Care,48,271.28,North Zone,Cash
+A-00585,2023-06-29,Sunrich Cooking Oil 1L,Edible Oils,19,100.66,South Zone,Credit
+A-00586,2024-06-09,GoldTea Premium 250g,Beverages,43,601.94,North Zone,Credit
+A-00587,2024-06-18,CrunchTime Chips 150g,Snacks,44,728.92,South Zone,Credit
+A-00588,2023-09-19,CrunchTime Chips 150g,Snacks,25,196.11,South Zone,Credit
+A-00589,2023-02-28,PureBite Atta 5kg,Staples,5,642.89,West Zone,Card
+A-00590,2023-07-04,Sunrich Cooking Oil 1L,Edible Oils,29,448.8,West Zone,UPI
+A-00591,2023-08-01,SoftCare Shampoo 200ml,Personal Care,6,863.8,West Zone,Credit
+A-00592,2024-01-04,FreshWash Dish Soap 500ml,Home Care,24,672.33,West Zone,Credit
+A-00593,2023-09-30,FreshWash Dish Soap 500ml,Home Care,41,224.85,North Zone,Cash
+A-00594,2024-04-25,CrunchTime Chips 150g,Snacks,27,595.88,West Zone,UPI
+A-00595,2023-06-29,PureBite Rice 5kg,Staples,49,416.01,West Zone,Cash
+A-00596,2023-10-27,SoftCare Shampoo 200ml,Personal Care,24,140.74,South Zone,Card
+A-00597,2023-11-05,FreshWash Dish Soap 500ml,Home Care,24,698.92,East Zone,Card
+A-00598,2023-07-23,PureBite Atta 5kg,Staples,50,546.37,North Zone,Credit
+A-00599,2023-03-29,Sunrich Cooking Oil 5L,Edible Oils,1,759.9,South Zone,Cash
+A-00600,2023-04-27,PureBite Rice 5kg,Staples,16,56.61,North Zone,Cash
+A-00601,2023-11-24,GoldTea Green Tea 100g,Beverages,5,489.2,East Zone,Credit
+A-00602,2023-09-28,GoldTea Green Tea 100g,Beverages,4,837.41,South Zone,UPI
+A-00603,2023-12-03,PureBite Rice 5kg,Staples,17,153.32,East Zone,Credit
+A-00604,2024-03-08,CrunchTime Biscuits 200g,Snacks,4,686.09,West Zone,UPI
+A-00605,2023-06-05,Sunrich Cooking Oil 5L,Edible Oils,31,121.02,South Zone,Credit
+A-00606,2024-04-28,FreshWash Dish Soap 500ml,Home Care,40,120.26,West Zone,Card
+A-00607,2024-04-13,FreshWash Dish Soap 500ml,Home Care,7,762.35,South Zone,UPI
+A-00608,2023-08-23,GoldTea Green Tea 100g,Beverages,47,89.09,North Zone,Card
+A-00609,2023-07-16,PureBite Rice 5kg,Staples,45,430.65,South Zone,Card
+A-00610,2023-08-20,GoldTea Premium 250g,Beverages,9,175.32,West Zone,UPI
+A-00611,2024-06-19,PureBite Rice 5kg,Staples,20,381.01,East Zone,Cash
+A-00612,2023-08-31,GoldTea Premium 250g,Beverages,4,319.53,South Zone,Card
+A-00613,2023-05-03,SoftCare Body Wash 250ml,Personal Care,2,210.03,East Zone,Credit
+A-00614,2024-02-01,Sunrich Cooking Oil 5L,Edible Oils,43,100.25,West Zone,Credit
+A-00615,2024-05-03,CrunchTime Biscuits 200g,Snacks,15,426.68,West Zone,UPI
+A-00616,2023-04-18,PureBite Rice 5kg,Staples,21,572.12,West Zone,Cash
+A-00617,2024-04-22,Sunrich Cooking Oil 1L,Edible Oils,36,150.9,North Zone,UPI
+A-00618,2024-06-16,PureBite Atta 5kg,Staples,50,333.09,North Zone,Card
+A-00619,2023-05-19,PureBite Rice 5kg,Staples,4,67.42,North Zone,Cash
+A-00620,2023-06-27,CrunchTime Chips 150g,Snacks,27,185.44,West Zone,Credit
+A-00621,2023-04-30,FreshWash Dish Soap 500ml,Home Care,30,875.7,North Zone,UPI
+A-00622,2023-07-09,PureBite Rice 5kg,Staples,25,446.58,East Zone,Credit
+A-00623,2024-05-17,FreshWash Detergent Powder 1kg,Home Care,48,206.55,North Zone,UPI
+A-00624,2023-06-02,CrunchTime Biscuits 200g,Snacks,31,740.16,East Zone,UPI
+A-00625,2024-03-04,GoldTea Green Tea 100g,Beverages,44,201.27,North Zone,Cash
+A-00626,2023-02-10,Sunrich Cooking Oil 1L,Edible Oils,49,258.73,North Zone,UPI
+A-00627,2023-12-28,GoldTea Premium 250g,Beverages,24,299.35,West Zone,Credit
+A-00628,2023-09-08,Sunrich Cooking Oil 1L,Edible Oils,44,393.09,North Zone,Card
+A-00629,2024-01-25,GoldTea Premium 250g,Beverages,33,604.1,West Zone,UPI
+A-00630,2023-12-20,GoldTea Green Tea 100g,Beverages,43,745.72,South Zone,UPI
+A-00631,2023-02-19,PureBite Rice 5kg,Staples,44,506.63,West Zone,UPI
+A-00632,2024-01-05,PureBite Rice 5kg,Staples,14,667.32,South Zone,Cash
+A-00633,2023-03-14,Sunrich Cooking Oil 1L,Edible Oils,2,235.3,North Zone,Credit
+A-00634,2024-05-03,SoftCare Body Wash 250ml,Personal Care,41,385.59,West Zone,UPI
+A-00635,2023-12-20,CrunchTime Chips 150g,Snacks,31,313.93,East Zone,UPI
+A-00636,2024-04-01,CrunchTime Chips 150g,Snacks,34,98.86,West Zone,Cash
+A-00637,2024-01-07,FreshWash Dish Soap 500ml,Home Care,14,351.63,North Zone,Cash
+A-00638,2023-04-05,Sunrich Cooking Oil 1L,Edible Oils,46,152.65,South Zone,UPI
+A-00639,2023-03-01,GoldTea Green Tea 100g,Beverages,7,231.2,South Zone,UPI
+A-00640,2023-03-20,SoftCare Shampoo 200ml,Personal Care,11,367.31,West Zone,Card
+A-00641,2024-05-18,CrunchTime Biscuits 200g,Snacks,47,876.34,North Zone,Card
+A-00642,2023-04-26,CrunchTime Biscuits 200g,Snacks,11,197.67,East Zone,Cash
+A-00643,2023-08-09,Sunrich Cooking Oil 1L,Edible Oils,33,772.0,West Zone,Card
+A-00644,2024-03-10,PureBite Atta 5kg,Staples,29,730.93,South Zone,UPI
+A-00645,2023-02-25,FreshWash Dish Soap 500ml,Home Care,33,580.49,North Zone,Cash
+A-00646,2023-09-19,FreshWash Detergent Powder 1kg,Home Care,48,713.2,South Zone,Card
+A-00647,2023-04-23,FreshWash Dish Soap 500ml,Home Care,38,660.52,West Zone,Card
+A-00648,2023-01-02,CrunchTime Biscuits 200g,Snacks,4,460.02,West Zone,Cash
+A-00649,2023-11-24,CrunchTime Biscuits 200g,Snacks,44,396.94,West Zone,Card
+A-00650,2023-09-09,GoldTea Green Tea 100g,Beverages,27,699.26,South Zone,Card
+A-00651,2023-06-15,CrunchTime Chips 150g,Snacks,28,300.74,South Zone,Credit
+A-00652,2023-07-08,GoldTea Green Tea 100g,Beverages,8,473.92,West Zone,Credit
+A-00653,2023-10-11,CrunchTime Chips 150g,Snacks,32,446.84,West Zone,Card
+A-00654,2023-12-27,CrunchTime Biscuits 200g,Snacks,11,240.31,West Zone,Cash
+A-00655,2024-02-06,SoftCare Shampoo 200ml,Personal Care,22,342.71,South Zone,Credit
+A-00656,2024-05-03,Sunrich Cooking Oil 1L,Edible Oils,3,770.57,East Zone,Credit
+A-00657,2023-01-05,FreshWash Detergent Powder 1kg,Home Care,36,601.06,South Zone,UPI
+A-00658,2023-08-13,GoldTea Green Tea 100g,Beverages,38,531.43,East Zone,Card
+A-00659,2023-01-28,FreshWash Detergent Powder 1kg,Home Care,19,139.26,East Zone,Credit
+A-00660,2024-06-28,CrunchTime Biscuits 200g,Snacks,2,340.86,East Zone,Credit
+A-00661,2023-09-24,CrunchTime Chips 150g,Snacks,39,526.16,North Zone,UPI
+A-00662,2023-12-07,PureBite Atta 5kg,Staples,35,50.32,East Zone,Credit
+A-00663,2023-03-02,Sunrich Cooking Oil 1L,Edible Oils,5,206.11,South Zone,Card
+A-00664,2023-04-20,SoftCare Shampoo 200ml,Personal Care,17,144.92,South Zone,Cash
+A-00665,2024-01-31,FreshWash Dish Soap 500ml,Home Care,3,683.32,West Zone,Cash
+A-00666,2023-11-05,FreshWash Detergent Powder 1kg,Home Care,39,148.63,North Zone,Cash
+A-00667,2023-06-22,Sunrich Cooking Oil 1L,Edible Oils,21,649.13,North Zone,Credit
+A-00668,2023-07-22,CrunchTime Chips 150g,Snacks,23,618.34,East Zone,Cash
+A-00669,2023-08-27,SoftCare Shampoo 200ml,Personal Care,27,257.85,West Zone,Cash
+A-00670,2023-06-05,FreshWash Detergent Powder 1kg,Home Care,11,194.71,East Zone,Cash
+A-00671,2023-01-15,Sunrich Cooking Oil 1L,Edible Oils,29,510.7,West Zone,Credit
+A-00672,2023-06-01,GoldTea Green Tea 100g,Beverages,43,380.5,North Zone,Card
+A-00673,2024-05-27,FreshWash Detergent Powder 1kg,Home Care,45,595.68,North Zone,UPI
+A-00674,2024-02-23,CrunchTime Chips 150g,Snacks,25,666.41,East Zone,Credit
+A-00675,2024-01-21,CrunchTime Chips 150g,Snacks,11,312.06,South Zone,UPI
+A-00676,2023-12-01,PureBite Atta 5kg,Staples,40,746.27,East Zone,UPI
+A-00677,2023-10-09,CrunchTime Chips 150g,Snacks,35,460.32,North Zone,Credit
+A-00678,2024-02-29,FreshWash Detergent Powder 1kg,Home Care,,694.5,East Zone,Credit
+A-00679,2024-01-21,CrunchTime Chips 150g,Snacks,50,154.9,East Zone,Cash
+A-00680,2024-04-04,PureBite Rice 5kg,Staples,17,109.97,East Zone,Cash
+A-00681,2023-09-22,GoldTea Premium 250g,Beverages,14,95.93,East Zone,UPI
+A-00682,2023-10-12,CrunchTime Biscuits 200g,Snacks,34,407.01,West Zone,UPI
+A-00683,2023-05-29,SoftCare Body Wash 250ml,Personal Care,8,79.84,East Zone,Cash
+A-00684,2023-12-27,PureBite Rice 5kg,Staples,48,846.32,West Zone,Card
+A-00685,2023-03-25,SoftCare Body Wash 250ml,Personal Care,31,61.99,North Zone,Card
+A-00686,2023-12-18,PureBite Rice 5kg,Staples,6,667.06,South Zone,Card
+A-00687,2023-09-24,PureBite Atta 5kg,Staples,12,760.97,East Zone,Card
+A-00688,2023-03-04,SoftCare Body Wash 250ml,Personal Care,15,255.16,South Zone,Card
+A-00689,2024-03-30,Sunrich Cooking Oil 5L,Edible Oils,41,369.49,South Zone,Cash
+A-00690,2024-01-28,GoldTea Green Tea 100g,Beverages,44,91.99,South Zone,Credit
+A-00691,2023-05-03,FreshWash Dish Soap 500ml,Home Care,17,178.03,East Zone,Credit
+A-00692,2023-10-02,SoftCare Body Wash 250ml,Personal Care,31,464.12,East Zone,Cash
+A-00693,2023-04-08,CrunchTime Chips 150g,Snacks,22,179.43,East Zone,Credit
+A-00694,2023-12-05,FreshWash Detergent Powder 1kg,Home Care,32,540.77,West Zone,Card
+A-00695,2023-10-19,FreshWash Dish Soap 500ml,Home Care,30,146.63,West Zone,UPI
+A-00696,2023-07-22,PureBite Atta 5kg,Staples,45,351.6,South Zone,UPI
+A-00697,2023-03-07,GoldTea Premium 250g,Beverages,46,250.03,West Zone,Cash
+A-00698,2023-08-31,CrunchTime Biscuits 200g,Snacks,33,609.82,North Zone,UPI
+A-00699,2023-01-02,PureBite Atta 5kg,Staples,38,653.35,East Zone,Cash
+A-00700,2023-01-10,GoldTea Premium 250g,Beverages,21,809.88,West Zone,UPI
+A-00701,2023-07-03,FreshWash Detergent Powder 1kg,Home Care,1,532.86,South Zone,Cash
+A-00702,2023-11-28,CrunchTime Chips 150g,Snacks,48,483.38,West Zone,Credit
+A-00703,2023-04-24,CrunchTime Chips 150g,Snacks,45,883.85,East Zone,Card
+A-00704,2024-03-13,Sunrich Cooking Oil 1L,Edible Oils,2,894.79,West Zone,Card
+A-00705,2024-01-14,FreshWash Detergent Powder 1kg,Home Care,23,830.44,East Zone,Card
+A-00706,2023-05-08,Sunrich Cooking Oil 5L,Edible Oils,38,725.29,South Zone,UPI
+A-00707,2023-01-16,CrunchTime Biscuits 200g,Snacks,32,394.92,North Zone,Card
+A-00708,2024-01-01,Sunrich Cooking Oil 1L,Edible Oils,16,810.0,South Zone,Cash
+A-00709,2023-02-12,SoftCare Shampoo 200ml,Personal Care,22,449.68,South Zone,Cash
+A-00710,2023-07-22,Sunrich Cooking Oil 1L,Edible Oils,39,835.61,North Zone,UPI
+A-00711,2024-03-09,Sunrich Cooking Oil 5L,Edible Oils,22,597.99,East Zone,Cash
+A-00712,2023-11-09,FreshWash Dish Soap 500ml,Home Care,44,173.04,West Zone,UPI
+A-00713,2023-02-16,CrunchTime Biscuits 200g,Snacks,28,838.4,West Zone,Cash
+A-00714,2023-03-01,PureBite Rice 5kg,Staples,11,744.12,East Zone,Cash
+A-00715,2024-06-06,PureBite Rice 5kg,Staples,48,656.43,West Zone,Card
+A-00716,2023-09-03,GoldTea Premium 250g,Beverages,43,430.32,West Zone,Cash
+A-00717,2023-10-22,Sunrich Cooking Oil 5L,Edible Oils,13,390.84,East Zone,UPI
+A-00718,2024-03-02,GoldTea Green Tea 100g,Beverages,15,72.6,West Zone,Cash
+A-00719,2023-04-13,CrunchTime Biscuits 200g,Snacks,13,891.92,West Zone,Credit
+A-00720,2023-10-26,SoftCare Body Wash 250ml,Personal Care,37,735.54,North Zone,Credit
+A-00721,2023-01-26,SoftCare Shampoo 200ml,Personal Care,9,607.59,South Zone,Cash
+A-00722,2023-09-03,Sunrich Cooking Oil 5L,Edible Oils,8,729.52,North Zone,Card
+A-00723,2024-01-11,GoldTea Green Tea 100g,Beverages,11,638.11,West Zone,UPI
+A-00724,2024-03-17,FreshWash Detergent Powder 1kg,Home Care,1,153.54,South Zone,Card
+A-00725,2023-04-05,Sunrich Cooking Oil 5L,Edible Oils,8,734.68,South Zone,Cash
+A-00726,2023-11-22,Sunrich Cooking Oil 5L,Edible Oils,20,896.86,West Zone,Card
+A-00727,2023-12-30,PureBite Rice 5kg,Staples,22,148.68,South Zone,UPI
+A-00728,2023-07-09,Sunrich Cooking Oil 1L,Edible Oils,27,409.57,North Zone,UPI
+A-00729,2024-06-13,PureBite Rice 5kg,Staples,29,711.68,West Zone,Card
+A-00730,2023-10-28,CrunchTime Biscuits 200g,Snacks,25,507.88,West Zone,Cash
+A-00731,2024-04-07,PureBite Rice 5kg,Staples,44,223.11,East Zone,UPI
+A-00732,2023-08-28,GoldTea Green Tea 100g,Beverages,47,602.57,West Zone,UPI
+A-00733,2024-01-05,GoldTea Premium 250g,Beverages,36,92.35,West Zone,Cash
+A-00734,2023-08-23,PureBite Atta 5kg,Staples,20,731.79,East Zone,UPI
+A-00735,2023-04-15,PureBite Rice 5kg,Staples,48,199.98,East Zone,Card
+A-00736,2024-03-06,PureBite Rice 5kg,Staples,9,810.03,West Zone,UPI
+A-00737,2023-12-27,PureBite Atta 5kg,Staples,12,653.0,East Zone,Cash
+A-00738,2023-02-25,GoldTea Green Tea 100g,Beverages,3,772.44,West Zone,Credit
+A-00739,2023-10-06,GoldTea Green Tea 100g,Beverages,33,142.63,West Zone,Credit
+A-00740,2024-01-24,Sunrich Cooking Oil 1L,Edible Oils,26,375.45,North Zone,UPI
+A-00741,2023-07-12,FreshWash Detergent Powder 1kg,Home Care,44,70.16,South Zone,Cash
+A-00742,2023-09-04,FreshWash Dish Soap 500ml,Home Care,19,124.56,South Zone,Credit
+A-00743,2023-11-30,GoldTea Green Tea 100g,Beverages,8,71.3,North Zone,Credit
+A-00744,2023-01-16,GoldTea Premium 250g,Beverages,27,827.03,South Zone,Cash
+A-00745,2023-09-04,PureBite Atta 5kg,Staples,28,249.47,West Zone,Cash
+A-00746,2024-05-05,GoldTea Premium 250g,Beverages,18,443.67,West Zone,Cash
+A-00747,2024-04-25,FreshWash Dish Soap 500ml,Home Care,39,577.45,West Zone,Card
+A-00748,2024-03-26,GoldTea Premium 250g,Beverages,49,687.31,North Zone,UPI
+A-00749,2023-04-04,Sunrich Cooking Oil 1L,Edible Oils,5,120.41,,UPI
+A-00750,2023-12-23,SoftCare Body Wash 250ml,Personal Care,19,830.44,East Zone,Card
+A-00751,2023-08-03,Sunrich Cooking Oil 5L,Edible Oils,24,289.61,South Zone,Credit
+A-00752,2023-10-18,CrunchTime Chips 150g,Snacks,36,524.48,North Zone,UPI
+A-00753,2023-12-03,CrunchTime Biscuits 200g,Snacks,42,321.71,North Zone,UPI
+A-00754,2023-06-15,GoldTea Green Tea 100g,Beverages,15,385.74,South Zone,Credit
+A-00755,2024-01-19,FreshWash Detergent Powder 1kg,Home Care,46,433.24,North Zone,Cash
+A-00756,2023-02-13,GoldTea Green Tea 100g,Beverages,44,385.28,West Zone,Credit
+A-00757,2023-07-10,Sunrich Cooking Oil 5L,Edible Oils,42,190.07,East Zone,Card
+A-00758,2023-10-25,PureBite Atta 5kg,Staples,33,787.9,South Zone,Credit
+A-00759,2023-07-25,GoldTea Premium 250g,Beverages,20,298.87,South Zone,Credit
+A-00760,2024-05-20,FreshWash Detergent Powder 1kg,Home Care,49,773.36,West Zone,Card
+A-00761,2023-02-03,Sunrich Cooking Oil 5L,Edible Oils,6,566.2,South Zone,UPI
+A-00762,2023-08-24,CrunchTime Biscuits 200g,Snacks,2,53.55,West Zone,Cash
+A-00763,2023-07-27,CrunchTime Biscuits 200g,Snacks,16,781.69,East Zone,UPI
+A-00764,2023-01-24,GoldTea Green Tea 100g,Beverages,5,822.25,North Zone,Cash
+A-00765,2023-03-31,GoldTea Premium 250g,Beverages,20,831.29,South Zone,Credit
+A-00766,2023-10-21,CrunchTime Biscuits 200g,Snacks,1,737.2,South Zone,UPI
+A-00767,2023-05-27,CrunchTime Biscuits 200g,Snacks,31,566.61,West Zone,Credit
+A-00768,2024-06-06,FreshWash Dish Soap 500ml,Home Care,15,281.8,South Zone,Card
+A-00769,2024-01-13,FreshWash Dish Soap 500ml,Home Care,7,226.85,West Zone,UPI
+A-00770,2023-08-03,PureBite Rice 5kg,Staples,46,346.97,South Zone,UPI
+A-00771,2023-06-07,SoftCare Shampoo 200ml,Personal Care,11,491.2,West Zone,Card
+A-00772,2023-12-28,FreshWash Dish Soap 500ml,Home Care,42,661.33,North Zone,UPI
+A-00773,2023-08-11,SoftCare Body Wash 250ml,Personal Care,19,364.12,East Zone,Credit
+A-00774,2023-05-22,GoldTea Premium 250g,Beverages,17,722.08,South Zone,Card
+A-00775,2024-03-23,PureBite Atta 5kg,Staples,28,741.05,West Zone,Card
+A-00776,2023-11-22,FreshWash Detergent Powder 1kg,Home Care,33,811.31,South Zone,Credit
+A-00777,2023-07-14,FreshWash Detergent Powder 1kg,Home Care,47,536.63,South Zone,Credit
+A-00778,2023-04-12,PureBite Atta 5kg,Staples,33,458.08,North Zone,Card
+A-00779,2024-03-21,PureBite Atta 5kg,Staples,37,127.65,South Zone,UPI
+A-00780,2024-01-16,CrunchTime Chips 150g,Snacks,12,597.47,North Zone,Credit
+A-00781,2023-09-16,FreshWash Detergent Powder 1kg,Home Care,45,304.03,North Zone,Cash
+A-00782,2023-03-28,Sunrich Cooking Oil 1L,Edible Oils,13,253.63,East Zone,UPI
+A-00783,2024-04-17,FreshWash Detergent Powder 1kg,Home Care,17,40.16,South Zone,UPI
+A-00784,2023-01-09,SoftCare Shampoo 200ml,Personal Care,8,688.75,North Zone,UPI
+A-00785,2023-08-19,SoftCare Body Wash 250ml,Personal Care,50,59.84,South Zone,UPI
+A-00786,2024-02-06,SoftCare Shampoo 200ml,Personal Care,42,840.73,South Zone,UPI
+A-00787,2024-03-23,CrunchTime Biscuits 200g,Snacks,48,419.0,West Zone,UPI
+A-00788,2023-08-09,SoftCare Shampoo 200ml,Personal Care,14,608.39,West Zone,Card
+A-00789,2024-03-17,Sunrich Cooking Oil 5L,Edible Oils,6,629.09,North Zone,Cash
+A-00790,2023-05-15,FreshWash Detergent Powder 1kg,Home Care,13,444.19,East Zone,Credit
+A-00791,2023-01-03,FreshWash Dish Soap 500ml,Home Care,10,592.65,East Zone,Cash
+A-00792,2023-03-11,CrunchTime Biscuits 200g,Snacks,39,239.09,South Zone,Cash
+A-00793,2023-06-16,GoldTea Premium 250g,Beverages,20,724.13,North Zone,Cash
+A-00794,2024-01-13,GoldTea Premium 250g,Beverages,2,710.16,South Zone,Credit
+A-00795,2023-11-04,Sunrich Cooking Oil 5L,Edible Oils,8,489.59,West Zone,Credit
+A-00796,2023-11-26,FreshWash Dish Soap 500ml,Home Care,25,873.17,West Zone,Credit
+A-00797,2024-04-04,GoldTea Premium 250g,Beverages,8,544.21,East Zone,Card
+A-00798,2024-06-15,CrunchTime Chips 150g,Snacks,18,350.8,South Zone,Credit
+A-00799,2024-03-02,FreshWash Dish Soap 500ml,Home Care,8,522.33,North Zone,Cash
+A-00800,2023-03-06,GoldTea Premium 250g,Beverages,38,418.26,North Zone,Cash
+A-00801,2024-04-29,Sunrich Cooking Oil 1L,Edible Oils,25,353.13,North Zone,Cash
+A-00802,2023-07-19,PureBite Atta 5kg,Staples,6,740.99,North Zone,Card
+A-00803,2023-11-17,SoftCare Body Wash 250ml,Personal Care,17,543.94,North Zone,Cash
+A-00804,2023-04-25,GoldTea Premium 250g,Beverages,39,90.23,North Zone,Credit
+A-00805,2024-05-23,CrunchTime Chips 150g,Snacks,47,781.8,East Zone,Card
+A-00806,2023-10-09,SoftCare Body Wash 250ml,Personal Care,38,319.79,North Zone,Cash
+A-00807,2024-06-04,FreshWash Dish Soap 500ml,Home Care,24,138.84,East Zone,UPI
+A-00808,2023-09-04,CrunchTime Biscuits 200g,Snacks,18,551.78,West Zone,Credit
+A-00809,2023-05-12,CrunchTime Chips 150g,Snacks,14,156.02,North Zone,Cash
+A-00810,2023-07-18,GoldTea Green Tea 100g,Beverages,17,633.27,West Zone,Credit
+A-00811,2023-07-08,GoldTea Premium 250g,Beverages,43,728.92,West Zone,Credit
+A-00812,2023-07-20,SoftCare Shampoo 200ml,Personal Care,26,629.23,East Zone,UPI
+A-00813,2023-05-25,CrunchTime Biscuits 200g,Snacks,26,201.61,East Zone,Credit
+A-00814,2023-06-26,PureBite Atta 5kg,Staples,48,105.45,East Zone,UPI
+A-00815,2023-07-08,GoldTea Green Tea 100g,Beverages,20,557.18,South Zone,Card
+A-00816,2023-04-15,CrunchTime Biscuits 200g,Snacks,14,451.43,South Zone,Card
+A-00817,2023-10-01,GoldTea Green Tea 100g,Beverages,19,300.26,South Zone,Credit
+A-00818,2024-03-27,FreshWash Dish Soap 500ml,Home Care,25,441.05,West Zone,Cash
+A-00819,2023-04-12,SoftCare Shampoo 200ml,Personal Care,17,246.83,West Zone,Credit
+A-00820,2023-03-01,FreshWash Dish Soap 500ml,Home Care,29,286.59,East Zone,Cash
+A-00821,2024-05-11,CrunchTime Chips 150g,Snacks,2,580.66,South Zone,Credit
+A-00822,2023-07-15,GoldTea Premium 250g,Beverages,23,383.28,North Zone,UPI
+A-00823,2023-02-18,GoldTea Premium 250g,Beverages,37,627.29,East Zone,Cash
+A-00824,2023-10-08,PureBite Rice 5kg,Staples,42,263.78,West Zone,Credit
+A-00825,2023-06-29,CrunchTime Chips 150g,Snacks,21,831.17,North Zone,Card
+A-00826,2023-08-03,PureBite Rice 5kg,Staples,9,220.18,West Zone,UPI
+A-00827,2023-02-17,PureBite Rice 5kg,Staples,29,454.56,South Zone,Cash
+A-00828,2024-05-07,SoftCare Body Wash 250ml,Personal Care,2,55.34,West Zone,Cash
+A-00829,2023-12-14,Sunrich Cooking Oil 1L,Edible Oils,38,393.35,East Zone,Credit
+A-00830,2024-03-17,CrunchTime Biscuits 200g,Snacks,1,317.79,South Zone,Card
+A-00831,2024-05-16,Sunrich Cooking Oil 5L,Edible Oils,4,773.78,West Zone,UPI
+A-00832,2024-01-28,CrunchTime Chips 150g,Snacks,21,50.78,East Zone,Credit
+A-00833,2024-05-18,CrunchTime Biscuits 200g,Snacks,34,362.99,North Zone,Credit
+A-00834,2023-04-29,SoftCare Shampoo 200ml,Personal Care,33,554.43,West Zone,UPI
+A-00835,2023-01-03,PureBite Atta 5kg,Staples,39,277.84,West Zone,Card
+A-00836,2023-02-23,Sunrich Cooking Oil 5L,Edible Oils,19,580.64,East Zone,UPI
+A-00837,2023-01-30,CrunchTime Chips 150g,Snacks,26,825.62,West Zone,Credit
+A-00838,2024-05-04,CrunchTime Chips 150g,Snacks,10,576.04,East Zone,Cash
+A-00839,2023-03-03,Sunrich Cooking Oil 1L,Edible Oils,10,315.53,South Zone,Cash
+A-00840,2023-08-20,GoldTea Premium 250g,Beverages,16,670.16,East Zone,Card
+A-00841,2024-01-30,Sunrich Cooking Oil 5L,Edible Oils,16,417.84,East Zone,Card
+A-00842,2024-01-15,CrunchTime Biscuits 200g,Snacks,50,288.45,North Zone,UPI
+A-00843,2023-01-01,Sunrich Cooking Oil 5L,Edible Oils,11,760.96,West Zone,Cash
+A-00844,2023-02-11,SoftCare Shampoo 200ml,Personal Care,9,840.33,North Zone,Credit
+A-00845,2023-06-07,Sunrich Cooking Oil 5L,Edible Oils,14,803.08,East Zone,Card
+A-00846,2023-07-06,GoldTea Premium 250g,Beverages,7,812.57,West Zone,UPI
+A-00847,2024-02-07,FreshWash Detergent Powder 1kg,Home Care,21,647.32,South Zone,Credit
+A-00848,2024-01-16,CrunchTime Biscuits 200g,Snacks,12,156.39,South Zone,Card
+A-00849,2023-01-07,Sunrich Cooking Oil 5L,Edible Oils,13,709.43,East Zone,UPI
+A-00850,2023-06-13,PureBite Atta 5kg,Staples,30,733.49,West Zone,Cash
+A-00851,2023-01-07,FreshWash Detergent Powder 1kg,Home Care,11,218.34,North Zone,Credit
+A-00852,2024-02-24,PureBite Atta 5kg,Staples,4,791.28,West Zone,Cash
+A-00853,2023-12-22,FreshWash Dish Soap 500ml,Home Care,38,718.27,West Zone,UPI
+A-00854,2023-10-16,SoftCare Shampoo 200ml,Personal Care,5,291.93,East Zone,Cash
+A-00855,2024-05-07,GoldTea Premium 250g,Beverages,13,783.06,East Zone,Credit
+A-00856,2024-03-30,Sunrich Cooking Oil 5L,Edible Oils,29,93.88,West Zone,UPI
+A-00857,2023-06-10,FreshWash Dish Soap 500ml,Home Care,33,642.79,West Zone,Card
+A-00858,2023-05-07,SoftCare Shampoo 200ml,Personal Care,22,363.45,North Zone,Credit
+A-00859,2024-04-01,CrunchTime Biscuits 200g,Snacks,9,287.48,West Zone,UPI
+A-00860,2023-05-23,CrunchTime Chips 150g,Snacks,31,566.38,South Zone,UPI
+A-00861,2023-01-26,SoftCare Shampoo 200ml,Personal Care,46,892.17,East Zone,Credit
+A-00862,2024-04-24,FreshWash Dish Soap 500ml,Home Care,28,687.16,West Zone,Card
+A-00863,2023-08-15,Sunrich Cooking Oil 5L,Edible Oils,6,587.77,East Zone,Credit
+A-00864,2024-03-19,PureBite Atta 5kg,Staples,44,852.82,East Zone,Credit
+A-00865,2024-04-02,CrunchTime Biscuits 200g,Snacks,8,541.57,West Zone,UPI
+A-00866,2024-03-12,FreshWash Dish Soap 500ml,Home Care,41,548.24,East Zone,UPI
+A-00867,2024-05-26,PureBite Rice 5kg,Staples,29,71.97,South Zone,Cash
+A-00868,2023-08-31,GoldTea Premium 250g,Beverages,6,804.73,West Zone,UPI
+A-00869,2023-03-09,CrunchTime Biscuits 200g,Snacks,5,76.6,South Zone,Card
+A-00870,2023-03-10,CrunchTime Biscuits 200g,Snacks,48,299.67,South Zone,UPI
+A-00871,2023-02-05,Sunrich Cooking Oil 1L,Edible Oils,6,458.9,West Zone,UPI
+A-00872,2023-06-13,GoldTea Premium 250g,Beverages,12,442.25,West Zone,UPI
+A-00873,2023-03-08,PureBite Rice 5kg,Staples,42,738.1,South Zone,UPI
+A-00874,2023-04-13,CrunchTime Biscuits 200g,Snacks,16,589.31,East Zone,Credit
+A-00875,2024-03-17,Sunrich Cooking Oil 1L,Edible Oils,1,422.39,East Zone,UPI
+A-00876,2023-12-25,FreshWash Dish Soap 500ml,Home Care,20,219.26,West Zone,UPI
+A-00877,2023-01-11,SoftCare Shampoo 200ml,Personal Care,6,888.41,North Zone,Credit
+A-00878,2023-08-03,SoftCare Body Wash 250ml,Personal Care,14,414.34,West Zone,Cash
+A-00879,2023-09-23,GoldTea Green Tea 100g,Beverages,31,708.62,East Zone,Card
+A-00880,2023-07-30,PureBite Rice 5kg,Staples,40,615.24,East Zone,Credit
+A-00881,2023-01-23,FreshWash Dish Soap 500ml,Home Care,20,382.42,North Zone,UPI
+A-00882,2023-10-20,CrunchTime Chips 150g,Snacks,10,188.74,North Zone,UPI
+A-00883,2024-06-11,Sunrich Cooking Oil 5L,Edible Oils,20,256.49,West Zone,UPI
+A-00884,2023-12-18,GoldTea Premium 250g,Beverages,49,684.91,East Zone,Cash
+A-00885,2023-12-17,FreshWash Dish Soap 500ml,Home Care,28,266.15,North Zone,UPI
+A-00886,2023-04-30,GoldTea Premium 250g,Beverages,9,222.41,East Zone,UPI
+A-00887,2024-04-01,GoldTea Premium 250g,Beverages,6,537.36,West Zone,UPI
+A-00888,2023-09-26,PureBite Rice 5kg,Staples,3,335.43,South Zone,Credit
+A-00889,2023-04-11,FreshWash Dish Soap 500ml,Home Care,17,563.17,South Zone,Card
+A-00890,2024-05-21,PureBite Rice 5kg,Staples,34,244.85,East Zone,Credit
+A-00891,2024-06-14,PureBite Atta 5kg,Staples,41,238.34,West Zone,Card
+A-00892,2024-05-12,Sunrich Cooking Oil 5L,Edible Oils,18,340.37,South Zone,Card
+A-00893,2024-01-21,CrunchTime Biscuits 200g,Snacks,40,167.8,South Zone,UPI
+A-00894,2023-12-13,SoftCare Body Wash 250ml,Personal Care,6,841.66,West Zone,Card
+A-00895,2024-05-29,SoftCare Body Wash 250ml,Personal Care,32,212.25,North Zone,Credit
+A-00896,2023-06-03,CrunchTime Chips 150g,Snacks,49,125.98,North Zone,Card
+A-00897,2024-02-25,GoldTea Green Tea 100g,Beverages,24,628.81,North Zone,Cash
+A-00898,2023-12-17,SoftCare Body Wash 250ml,Personal Care,31,272.35,East Zone,Cash
+A-00899,2024-03-11,FreshWash Dish Soap 500ml,Home Care,23,622.48,South Zone,Cash
+A-00900,2023-05-10,PureBite Rice 5kg,Staples,47,77.7,North Zone,Credit
+A-00901,2024-02-25,GoldTea Premium 250g,Beverages,18,827.82,East Zone,Cash
+A-00902,2023-09-06,FreshWash Dish Soap 500ml,Home Care,48,781.67,South Zone,Cash
+A-00903,2024-02-28,CrunchTime Chips 150g,Snacks,18,152.81,East Zone,Cash
+A-00904,2023-02-13,CrunchTime Biscuits 200g,Snacks,7,468.62,West Zone,Card
+A-00905,2023-05-15,FreshWash Detergent Powder 1kg,Home Care,50,480.52,West Zone,UPI
+A-00906,2023-04-11,SoftCare Body Wash 250ml,Personal Care,42,353.0,South Zone,Card
+A-00907,2023-02-18,FreshWash Dish Soap 500ml,Home Care,21,236.52,West Zone,Card
+A-00908,2023-08-05,SoftCare Body Wash 250ml,Personal Care,43,639.85,West Zone,UPI
+A-00909,2024-04-19,FreshWash Detergent Powder 1kg,Home Care,36,625.95,West Zone,Card
+A-00910,2023-05-02,FreshWash Dish Soap 500ml,Home Care,22,881.02,South Zone,Credit
+A-00911,2024-06-12,PureBite Rice 5kg,Staples,22,597.37,South Zone,Cash
+A-00912,2023-02-24,SoftCare Body Wash 250ml,Personal Care,37,690.89,South Zone,UPI
+A-00913,2024-01-06,SoftCare Shampoo 200ml,Personal Care,16,522.45,West Zone,Card
+A-00914,2023-11-28,CrunchTime Chips 150g,Snacks,6,418.91,North Zone,Credit
+A-00915,2023-01-16,Sunrich Cooking Oil 5L,Edible Oils,24,71.74,South Zone,Cash
+A-00916,2023-03-01,SoftCare Body Wash 250ml,Personal Care,44,318.5,South Zone,Card
+A-00917,2023-08-28,SoftCare Body Wash 250ml,Personal Care,29,373.21,South Zone,UPI
+A-00918,2023-05-29,PureBite Rice 5kg,Staples,46,715.51,North Zone,Credit
+A-00919,2023-05-14,SoftCare Body Wash 250ml,Personal Care,43,538.77,North Zone,Cash
+A-00920,2023-08-23,PureBite Rice 5kg,Staples,47,899.57,West Zone,UPI
+A-00921,2023-07-06,Sunrich Cooking Oil 5L,Edible Oils,29,566.27,East Zone,Cash
+A-00922,2023-06-29,Sunrich Cooking Oil 5L,Edible Oils,17,392.97,East Zone,Cash
+A-00923,2023-06-02,FreshWash Dish Soap 500ml,Home Care,11,782.76,East Zone,UPI
+A-00924,2023-09-26,SoftCare Body Wash 250ml,Personal Care,47,174.18,West Zone,Card
+A-00925,2023-08-07,FreshWash Dish Soap 500ml,Home Care,29,153.26,East Zone,Card
+A-00926,2023-06-08,SoftCare Shampoo 200ml,Personal Care,31,883.45,East Zone,Cash
+A-00927,2024-06-21,GoldTea Premium 250g,Beverages,12,880.92,East Zone,Card
+A-00928,2024-01-04,FreshWash Detergent Powder 1kg,Home Care,9,801.39,West Zone,Card
+A-00929,2023-01-03,PureBite Atta 5kg,Staples,50,507.29,West Zone,Card
+A-00930,2024-05-26,FreshWash Dish Soap 500ml,Home Care,7,747.66,East Zone,Card
+A-00931,2023-02-25,GoldTea Green Tea 100g,Beverages,44,719.99,North Zone,Cash
+A-00932,2024-03-16,CrunchTime Biscuits 200g,Snacks,6,746.96,South Zone,Card
+A-00933,2023-11-09,GoldTea Green Tea 100g,Beverages,30,79.54,East Zone,Cash
+A-00934,2023-07-23,CrunchTime Biscuits 200g,Snacks,20,649.95,East Zone,UPI
+A-00935,2024-01-27,FreshWash Dish Soap 500ml,Home Care,50,77.32,East Zone,Card
+A-00936,2024-06-12,GoldTea Premium 250g,Beverages,16,577.81,East Zone,Card
+A-00937,2024-01-12,CrunchTime Biscuits 200g,Snacks,12,66.38,West Zone,Card
+A-00938,2024-01-17,CrunchTime Chips 150g,Snacks,30,182.24,North Zone,Cash
+A-00939,2023-07-08,Sunrich Cooking Oil 1L,Edible Oils,39,91.61,South Zone,UPI
+A-00940,2023-06-11,PureBite Rice 5kg,Staples,7,475.59,West Zone,Card
+A-00941,2024-04-01,FreshWash Detergent Powder 1kg,Home Care,9,426.21,West Zone,Card
+A-00942,2024-02-18,CrunchTime Biscuits 200g,Snacks,21,514.82,East Zone,Cash
+A-00943,2023-05-01,SoftCare Body Wash 250ml,Personal Care,48,831.89,East Zone,Cash
+A-00944,2023-04-14,SoftCare Shampoo 200ml,Personal Care,2,502.86,South Zone,Credit
+A-00945,2023-10-08,GoldTea Green Tea 100g,Beverages,4,165.09,North Zone,UPI
+A-00946,2023-02-14,SoftCare Body Wash 250ml,Personal Care,30,601.21,East Zone,UPI
+A-00947,2023-12-28,PureBite Rice 5kg,Staples,21,799.14,West Zone,UPI
+A-00948,2023-03-14,GoldTea Green Tea 100g,Beverages,29,275.43,East Zone,Cash
+A-00949,2024-06-25,SoftCare Shampoo 200ml,Personal Care,3,74.61,East Zone,Card
+A-00950,2023-04-16,Sunrich Cooking Oil 5L,Edible Oils,9,831.06,South Zone,Credit
+A-00951,2023-02-22,PureBite Rice 5kg,Staples,1,840.38,South Zone,Cash
+A-00952,2023-06-02,FreshWash Detergent Powder 1kg,Home Care,25,496.88,South Zone,Credit
+A-00953,2023-11-08,Sunrich Cooking Oil 1L,Edible Oils,15,625.15,West Zone,Cash
+A-00954,2024-06-25,PureBite Atta 5kg,Staples,40,427.55,East Zone,Cash
+A-00955,2023-06-02,PureBite Rice 5kg,Staples,32,514.63,North Zone,UPI
+A-00956,2023-01-29,SoftCare Shampoo 200ml,Personal Care,24,527.51,West Zone,Cash
+A-00957,2023-08-27,Sunrich Cooking Oil 5L,Edible Oils,37,384.2,East Zone,Credit
+A-00958,2023-11-12,CrunchTime Biscuits 200g,Snacks,36,841.32,East Zone,Credit
+A-00959,2023-03-19,PureBite Rice 5kg,Staples,14,750.35,West Zone,Cash
+A-00960,2023-08-02,CrunchTime Biscuits 200g,Snacks,28,830.75,South Zone,Card
+A-00961,2023-01-16,SoftCare Shampoo 200ml,Personal Care,18,286.32,West Zone,UPI
+A-00962,2023-06-23,SoftCare Shampoo 200ml,Personal Care,39,665.68,West Zone,Credit
+A-00963,2023-11-27,Sunrich Cooking Oil 1L,Edible Oils,7,440.76,South Zone,Cash
+A-00964,2024-01-14,SoftCare Body Wash 250ml,Personal Care,12,238.65,,UPI
+A-00965,2023-04-26,GoldTea Green Tea 100g,Beverages,25,554.0,East Zone,UPI
+A-00966,2023-01-24,GoldTea Premium 250g,Beverages,10,191.22,North Zone,Credit
+A-00967,2024-01-18,FreshWash Dish Soap 500ml,Home Care,33,129.34,South Zone,Credit
+A-00968,2024-06-30,GoldTea Premium 250g,Beverages,35,61.97,East Zone,UPI
+A-00969,2023-09-20,PureBite Rice 5kg,Staples,25,794.25,North Zone,UPI
+A-00970,2023-03-02,GoldTea Premium 250g,Beverages,2,355.8,South Zone,Credit
+A-00971,2023-12-23,Sunrich Cooking Oil 5L,Edible Oils,35,639.02,North Zone,Card
+A-00972,2023-07-02,SoftCare Body Wash 250ml,Personal Care,29,723.35,East Zone,UPI
+A-00973,2024-02-23,PureBite Atta 5kg,Staples,50,764.91,South Zone,Cash
+A-00974,2024-03-25,CrunchTime Biscuits 200g,Snacks,37,89.39,East Zone,Card
+A-00975,2023-04-05,GoldTea Premium 250g,Beverages,28,205.58,South Zone,Card
+A-00976,2023-01-06,PureBite Atta 5kg,Staples,46,190.07,North Zone,UPI
+A-00977,2023-04-19,GoldTea Premium 250g,Beverages,16,247.82,West Zone,Card
+A-00978,2023-04-12,FreshWash Dish Soap 500ml,Home Care,7,237.99,West Zone,Cash
+A-00979,2024-04-27,SoftCare Body Wash 250ml,Personal Care,11,723.89,South Zone,UPI
+A-00980,2023-04-10,CrunchTime Biscuits 200g,Snacks,7,624.37,West Zone,Credit
+A-00981,2023-03-27,PureBite Atta 5kg,Staples,24,773.47,West Zone,Credit
+A-00982,2024-05-23,FreshWash Detergent Powder 1kg,Home Care,40,783.82,South Zone,Credit
+A-00983,2024-01-17,CrunchTime Chips 150g,Snacks,36,177.4,South Zone,Card
+A-00984,2024-03-23,SoftCare Shampoo 200ml,Personal Care,33,847.38,South Zone,Card
+A-00985,2023-05-01,GoldTea Green Tea 100g,Beverages,5,101.12,West Zone,Card
+A-00986,2023-03-15,PureBite Atta 5kg,Staples,30,41.3,North Zone,Credit
+A-00987,2023-12-19,PureBite Atta 5kg,Staples,9,213.96,West Zone,UPI
+A-00988,2023-09-27,CrunchTime Chips 150g,Snacks,13,506.01,South Zone,Cash
+A-00989,2023-11-03,PureBite Rice 5kg,Staples,33,89.81,North Zone,Cash
+A-00990,2023-12-31,CrunchTime Biscuits 200g,Snacks,27,681.65,North Zone,Credit
+A-00991,2023-11-17,PureBite Atta 5kg,Staples,46,582.36,East Zone,Credit
+A-00992,2023-03-16,GoldTea Green Tea 100g,Beverages,2,98.15,West Zone,Cash
+A-00993,2023-04-04,PureBite Rice 5kg,Staples,31,736.09,North Zone,UPI
+A-00994,2023-08-29,CrunchTime Biscuits 200g,Snacks,41,483.88,West Zone,Card
+A-00995,2024-02-29,Sunrich Cooking Oil 1L,Edible Oils,45,885.27,South Zone,Cash
+A-00996,2023-12-16,FreshWash Dish Soap 500ml,Home Care,12,319.16,West Zone,Cash
+A-00997,2023-11-08,CrunchTime Biscuits 200g,Snacks,32,211.3,North Zone,Card
+A-00998,2023-08-26,PureBite Rice 5kg,Staples,29,644.27,East Zone,Cash
+A-00999,2024-01-30,CrunchTime Chips 150g,Snacks,15,390.99,North Zone,Cash
+A-01000,2023-03-31,Sunrich Cooking Oil 5L,Edible Oils,32,81.91,North Zone,Card
+A-01001,2024-03-06,CrunchTime Chips 150g,Snacks,34,235.59,West Zone,Card
+A-01002,2023-06-26,GoldTea Green Tea 100g,Beverages,41,433.24,West Zone,UPI
+A-01003,2024-05-08,GoldTea Premium 250g,Beverages,14,504.47,East Zone,UPI
+A-01004,2023-04-25,CrunchTime Biscuits 200g,Snacks,47,148.96,South Zone,Card
+A-01005,2024-01-10,FreshWash Detergent Powder 1kg,Home Care,1,506.3,West Zone,Card
+A-01006,2023-05-19,PureBite Atta 5kg,Staples,16,776.43,West Zone,UPI
+A-01007,2024-05-19,Sunrich Cooking Oil 1L,Edible Oils,33,760.06,North Zone,Card
+A-01008,2024-05-10,PureBite Atta 5kg,Staples,14,756.08,South Zone,Cash
+A-01009,2023-07-14,Sunrich Cooking Oil 5L,Edible Oils,1,314.65,West Zone,Cash
+A-01010,2023-04-29,CrunchTime Chips 150g,Snacks,20,105.36,South Zone,Credit
+A-01011,2023-09-24,SoftCare Shampoo 200ml,Personal Care,18,845.01,West Zone,Cash
+A-01012,2024-06-26,SoftCare Shampoo 200ml,Personal Care,27,126.19,South Zone,Card
+A-01013,2024-06-21,PureBite Atta 5kg,Staples,43,587.95,South Zone,Credit
+A-01014,2023-03-20,FreshWash Dish Soap 500ml,Home Care,12,166.38,West Zone,UPI
+A-01015,2023-03-07,PureBite Atta 5kg,Staples,6,880.62,North Zone,Cash
+A-01016,2024-01-14,CrunchTime Chips 150g,Snacks,49,109.12,South Zone,Credit
+A-01017,2023-06-16,PureBite Rice 5kg,Staples,26,526.11,North Zone,UPI
+A-01018,2023-08-25,CrunchTime Chips 150g,Snacks,26,417.99,West Zone,Credit
+A-01019,2023-10-02,SoftCare Body Wash 250ml,Personal Care,28,395.14,East Zone,Credit
+A-01020,2023-02-14,PureBite Atta 5kg,Staples,32,638.63,West Zone,Credit
+A-01021,2023-11-12,SoftCare Body Wash 250ml,Personal Care,11,497.92,East Zone,Cash
+A-01022,2023-12-23,FreshWash Detergent Powder 1kg,Home Care,29,421.82,West Zone,UPI
+A-01023,2023-03-30,FreshWash Detergent Powder 1kg,Home Care,30,55.83,East Zone,UPI
+A-01024,2023-01-06,GoldTea Green Tea 100g,Beverages,48,394.42,South Zone,Card
+A-01025,2023-05-14,FreshWash Dish Soap 500ml,Home Care,26,324.52,West Zone,Cash
+A-01026,2023-05-27,FreshWash Dish Soap 500ml,Home Care,22,633.46,North Zone,UPI
+A-01027,2024-01-13,GoldTea Premium 250g,Beverages,25,829.63,South Zone,UPI
+A-01028,2023-04-29,SoftCare Body Wash 250ml,Personal Care,18,193.24,South Zone,Credit
+A-01029,2023-09-19,SoftCare Shampoo 200ml,Personal Care,33,713.43,North Zone,Cash
+A-01030,2024-05-04,SoftCare Body Wash 250ml,Personal Care,15,445.64,East Zone,UPI
+A-01031,2023-07-26,FreshWash Detergent Powder 1kg,Home Care,4,754.1,West Zone,Card
+A-01032,2023-08-29,Sunrich Cooking Oil 1L,Edible Oils,7,381.94,East Zone,Cash
+A-01033,2023-06-18,Sunrich Cooking Oil 1L,Edible Oils,17,789.77,South Zone,Card
+A-01034,2023-05-25,SoftCare Body Wash 250ml,Personal Care,9,444.21,South Zone,UPI
+A-01035,2023-03-12,Sunrich Cooking Oil 1L,Edible Oils,21,887.02,South Zone,Credit
+A-01036,2024-06-02,PureBite Rice 5kg,Staples,8,159.18,South Zone,Credit
+A-01037,2023-07-05,GoldTea Green Tea 100g,Beverages,34,365.78,South Zone,Card
+A-01038,2023-04-08,Sunrich Cooking Oil 1L,Edible Oils,50,565.47,North Zone,Cash
+A-01039,2023-08-22,FreshWash Dish Soap 500ml,Home Care,48,794.62,South Zone,Cash
+A-01040,2023-02-05,SoftCare Shampoo 200ml,Personal Care,34,345.13,South Zone,Cash
+A-01041,2023-03-30,GoldTea Green Tea 100g,Beverages,6,754.16,North Zone,Credit
+A-01042,2023-02-18,GoldTea Premium 250g,Beverages,39,587.45,East Zone,UPI
+A-01043,2023-05-02,SoftCare Body Wash 250ml,Personal Care,,555.15,South Zone,Card
+A-01044,2023-01-11,FreshWash Detergent Powder 1kg,Home Care,40,700.7,North Zone,Cash
+A-01045,2023-04-25,GoldTea Premium 250g,Beverages,14,785.37,North Zone,UPI
+A-01046,2023-07-20,CrunchTime Chips 150g,Snacks,1,196.0,West Zone,Cash
+A-01047,2023-04-20,PureBite Atta 5kg,Staples,4,108.38,East Zone,UPI
+A-01048,2023-02-03,SoftCare Shampoo 200ml,Personal Care,23,449.73,South Zone,Cash
+A-01049,2024-01-26,GoldTea Green Tea 100g,Beverages,44,413.7,West Zone,Card
+A-01050,2023-06-03,CrunchTime Chips 150g,Snacks,31,50.79,North Zone,UPI
+A-01051,2023-04-28,SoftCare Body Wash 250ml,Personal Care,41,119.72,East Zone,Card
+A-01052,2024-05-26,FreshWash Dish Soap 500ml,Home Care,25,697.97,South Zone,UPI
+A-01053,2023-09-11,GoldTea Premium 250g,Beverages,44,846.82,East Zone,Cash
+A-01054,2024-03-28,Sunrich Cooking Oil 1L,Edible Oils,44,297.9,East Zone,UPI
+A-01055,2023-04-16,Sunrich Cooking Oil 5L,Edible Oils,44,435.68,North Zone,Card
+A-01056,2024-05-15,GoldTea Premium 250g,Beverages,41,595.94,West Zone,Credit
+A-01057,2024-05-14,GoldTea Premium 250g,Beverages,3,439.28,West Zone,Cash
+A-01058,2024-05-02,Sunrich Cooking Oil 5L,Edible Oils,40,56.74,East Zone,Card
+A-01059,2023-04-15,Sunrich Cooking Oil 1L,Edible Oils,24,642.63,North Zone,Cash
+A-01060,2023-12-20,Sunrich Cooking Oil 1L,Edible Oils,39,166.21,North Zone,Cash
+A-01061,2023-03-31,PureBite Rice 5kg,Staples,42,867.73,East Zone,Credit
+A-01062,2024-01-03,PureBite Atta 5kg,Staples,10,196.87,North Zone,Cash
+A-01063,2023-04-18,CrunchTime Chips 150g,Snacks,29,793.48,East Zone,Card
+A-01064,2023-08-10,SoftCare Body Wash 250ml,Personal Care,46,79.73,South Zone,Cash
+A-01065,2024-05-18,CrunchTime Biscuits 200g,Snacks,25,845.12,North Zone,UPI
+A-01066,2024-05-19,CrunchTime Biscuits 200g,Snacks,47,815.95,East Zone,UPI
+A-01067,2024-03-06,SoftCare Body Wash 250ml,Personal Care,37,276.99,East Zone,Card
+A-01068,2023-10-05,GoldTea Green Tea 100g,Beverages,43,365.86,West Zone,Cash
+A-01069,2024-05-12,GoldTea Premium 250g,Beverages,7,113.8,South Zone,UPI
+A-01070,2023-08-01,CrunchTime Chips 150g,Snacks,28,454.8,South Zone,Cash
+A-01071,2024-06-07,GoldTea Premium 250g,Beverages,19,772.36,West Zone,Credit
+A-01072,2024-01-27,PureBite Atta 5kg,Staples,2,621.08,North Zone,UPI
+A-01073,2023-09-05,PureBite Atta 5kg,Staples,24,176.06,East Zone,Credit
+A-01074,2023-10-29,CrunchTime Chips 150g,Snacks,48,602.32,South Zone,UPI
+A-01075,2023-09-30,CrunchTime Biscuits 200g,Snacks,5,696.79,West Zone,Credit
+A-01076,2023-05-30,Sunrich Cooking Oil 5L,Edible Oils,4,347.75,North Zone,Credit
+A-01077,2023-12-14,PureBite Atta 5kg,Staples,4,333.24,East Zone,Card
+A-01078,2024-04-19,Sunrich Cooking Oil 5L,Edible Oils,35,471.37,South Zone,UPI
+A-01079,2023-09-08,Sunrich Cooking Oil 1L,Edible Oils,47,766.7,North Zone,Card
+A-01080,2024-01-09,CrunchTime Chips 150g,Snacks,24,493.14,,Card
+A-01081,2023-03-18,PureBite Atta 5kg,Staples,47,603.32,West Zone,Cash
+A-01082,2023-01-15,CrunchTime Biscuits 200g,Snacks,31,897.47,South Zone,Card
+A-01083,2024-01-14,PureBite Rice 5kg,Staples,34,175.39,South Zone,UPI
+A-01084,2023-12-13,PureBite Atta 5kg,Staples,43,519.65,North Zone,UPI
+A-01085,2023-03-02,FreshWash Dish Soap 500ml,Home Care,19,454.0,North Zone,Cash
+A-01086,2024-02-02,CrunchTime Chips 150g,Snacks,12,348.47,East Zone,Cash
+A-01087,2023-10-11,SoftCare Body Wash 250ml,Personal Care,36,435.74,West Zone,Card
+A-01088,2023-03-02,Sunrich Cooking Oil 5L,Edible Oils,26,411.6,West Zone,Card
+A-01089,2023-09-24,PureBite Atta 5kg,Staples,36,165.61,West Zone,Cash
+A-01090,2024-06-17,SoftCare Shampoo 200ml,Personal Care,21,386.04,East Zone,Cash
+A-01091,2023-12-26,FreshWash Detergent Powder 1kg,Home Care,50,511.77,South Zone,UPI
+A-01092,2023-11-04,GoldTea Green Tea 100g,Beverages,12,837.43,West Zone,Card
+A-01093,2023-12-05,GoldTea Premium 250g,Beverages,43,463.0,East Zone,Card
+A-01094,2024-03-15,PureBite Rice 5kg,Staples,40,601.1,West Zone,Cash
+A-01095,2023-12-16,GoldTea Green Tea 100g,Beverages,12,567.11,South Zone,Card
+A-01096,2023-09-15,SoftCare Body Wash 250ml,Personal Care,10,642.55,North Zone,Cash
+A-01097,2024-03-27,CrunchTime Chips 150g,Snacks,49,604.68,North Zone,UPI
+A-01098,2024-02-14,Sunrich Cooking Oil 5L,Edible Oils,41,103.82,North Zone,UPI
+A-01099,2023-05-12,GoldTea Premium 250g,Beverages,2,220.49,North Zone,Card
+A-01100,2023-01-26,SoftCare Body Wash 250ml,Personal Care,11,760.83,South Zone,Card
+A-01101,2024-03-22,CrunchTime Chips 150g,Snacks,18,572.87,South Zone,Credit
+A-01102,2023-10-15,SoftCare Body Wash 250ml,Personal Care,18,214.05,West Zone,UPI
+A-01103,2023-06-09,Sunrich Cooking Oil 1L,Edible Oils,5,219.75,East Zone,Cash
+A-01104,2023-07-28,CrunchTime Biscuits 200g,Snacks,49,743.56,West Zone,Card
+A-01105,2023-05-22,Sunrich Cooking Oil 1L,Edible Oils,15,226.57,North Zone,Cash
+A-01106,2023-11-24,GoldTea Green Tea 100g,Beverages,8,482.29,West Zone,Cash
+A-01107,2023-12-22,Sunrich Cooking Oil 1L,Edible Oils,25,799.31,North Zone,UPI
+A-01108,2023-02-25,PureBite Atta 5kg,Staples,49,365.45,South Zone,Cash
+A-01109,2023-01-23,CrunchTime Chips 150g,Snacks,33,54.73,South Zone,Card
+A-01110,2023-06-30,CrunchTime Biscuits 200g,Snacks,43,414.93,North Zone,Credit
+A-01111,2024-05-02,Sunrich Cooking Oil 1L,Edible Oils,14,758.21,North Zone,Card
+A-01112,2023-02-13,CrunchTime Chips 150g,Snacks,38,438.9,West Zone,Card
+A-01113,2023-10-30,Sunrich Cooking Oil 5L,Edible Oils,46,407.03,West Zone,Cash
+A-01114,2023-09-02,CrunchTime Chips 150g,Snacks,49,517.43,East Zone,Credit
+A-01115,2023-01-16,FreshWash Detergent Powder 1kg,Home Care,22,496.59,West Zone,Credit
+A-01116,2023-08-10,SoftCare Shampoo 200ml,Personal Care,42,761.29,North Zone,Cash
+A-01117,2023-08-19,CrunchTime Biscuits 200g,Snacks,9,115.81,North Zone,Card
+A-01118,2024-01-04,SoftCare Shampoo 200ml,Personal Care,39,62.15,North Zone,Credit
+A-01119,2024-03-29,PureBite Rice 5kg,Staples,46,135.91,North Zone,Credit
+A-01120,2023-07-07,Sunrich Cooking Oil 5L,Edible Oils,34,503.75,East Zone,Credit
+A-01121,2024-06-10,SoftCare Body Wash 250ml,Personal Care,12,217.91,South Zone,Credit
+A-01122,2024-02-13,SoftCare Body Wash 250ml,Personal Care,26,51.7,South Zone,Credit
+A-01123,2023-01-13,PureBite Atta 5kg,Staples,48,464.26,South Zone,UPI
+A-01124,2023-04-05,FreshWash Detergent Powder 1kg,Home Care,14,839.99,South Zone,UPI
+A-01125,2023-10-06,CrunchTime Biscuits 200g,Snacks,10,76.11,East Zone,Card
+A-01126,2023-04-24,SoftCare Body Wash 250ml,Personal Care,36,240.57,North Zone,Cash
+A-01127,2023-07-05,CrunchTime Biscuits 200g,Snacks,29,306.13,South Zone,Credit
+A-01128,2023-02-08,FreshWash Detergent Powder 1kg,Home Care,5,495.57,East Zone,Credit
+A-01129,2023-10-12,PureBite Rice 5kg,Staples,2,697.78,North Zone,Credit
+A-01130,2024-05-04,PureBite Rice 5kg,Staples,43,170.61,South Zone,Cash
+A-01131,2023-02-08,PureBite Atta 5kg,Staples,24,825.02,South Zone,Card
+A-01132,2023-09-28,Sunrich Cooking Oil 1L,Edible Oils,11,206.46,North Zone,Cash
+A-01133,2024-03-30,CrunchTime Biscuits 200g,Snacks,31,151.69,North Zone,Credit
+A-01134,2023-03-08,Sunrich Cooking Oil 5L,Edible Oils,11,465.28,South Zone,Card
+A-01135,2023-01-25,FreshWash Dish Soap 500ml,Home Care,47,208.62,East Zone,Cash
+A-01136,2023-10-21,GoldTea Green Tea 100g,Beverages,6,349.69,East Zone,Card
+A-01137,2023-09-26,CrunchTime Chips 150g,Snacks,47,862.0,South Zone,Card
+A-01138,2023-10-01,Sunrich Cooking Oil 1L,Edible Oils,10,583.37,,UPI
+A-01139,2024-06-06,CrunchTime Biscuits 200g,Snacks,48,705.47,South Zone,UPI
+A-01140,2024-04-22,SoftCare Body Wash 250ml,Personal Care,14,178.89,East Zone,Cash
+A-01141,2023-04-26,CrunchTime Biscuits 200g,Snacks,49,47.5,West Zone,Credit
+A-01142,2023-06-24,CrunchTime Biscuits 200g,Snacks,40,423.45,West Zone,Card
+A-01143,2023-09-19,SoftCare Shampoo 200ml,Personal Care,2,100.5,South Zone,Cash
+A-01144,2023-11-28,SoftCare Body Wash 250ml,Personal Care,26,815.63,South Zone,Credit
+A-01145,2024-05-22,CrunchTime Biscuits 200g,Snacks,14,859.03,South Zone,UPI
+A-01146,2024-06-14,CrunchTime Biscuits 200g,Snacks,41,532.9,North Zone,Credit
+A-01147,2023-10-20,GoldTea Green Tea 100g,Beverages,30,92.65,East Zone,Credit
+A-01148,2023-09-21,CrunchTime Chips 150g,Snacks,27,786.58,West Zone,UPI
+A-01149,2023-04-24,CrunchTime Biscuits 200g,Snacks,23,625.56,North Zone,Cash
+A-01150,2023-07-16,Sunrich Cooking Oil 5L,Edible Oils,16,521.07,East Zone,Cash
+A-01151,2023-12-15,Sunrich Cooking Oil 5L,Edible Oils,38,250.11,South Zone,Card
+A-01152,2023-04-05,SoftCare Body Wash 250ml,Personal Care,37,192.44,South Zone,Credit
+A-01153,2023-09-30,Sunrich Cooking Oil 5L,Edible Oils,29,613.76,South Zone,UPI
+A-01154,2023-02-23,GoldTea Green Tea 100g,Beverages,49,506.15,West Zone,UPI
+A-01155,2023-05-03,PureBite Atta 5kg,Staples,27,773.75,South Zone,Cash
+A-01156,2023-03-06,PureBite Rice 5kg,Staples,50,346.48,North Zone,Credit
+A-01157,2024-03-31,SoftCare Shampoo 200ml,Personal Care,21,432.04,East Zone,UPI
+A-01158,2023-09-04,Sunrich Cooking Oil 5L,Edible Oils,35,770.46,South Zone,UPI
+A-01159,2023-11-07,CrunchTime Biscuits 200g,Snacks,21,893.57,West Zone,Cash
+A-01160,2024-04-29,Sunrich Cooking Oil 1L,Edible Oils,39,258.12,South Zone,Cash
+A-01161,2023-02-13,FreshWash Detergent Powder 1kg,Home Care,8,641.1,West Zone,Card
+A-01162,2023-05-04,SoftCare Shampoo 200ml,Personal Care,6,445.67,East Zone,Card
+A-01163,2024-03-10,PureBite Rice 5kg,Staples,3,543.1,South Zone,UPI
+A-01164,2023-06-26,SoftCare Body Wash 250ml,Personal Care,14,372.37,North Zone,UPI
+A-01165,2024-05-19,CrunchTime Biscuits 200g,Snacks,14,547.84,East Zone,UPI
+A-01166,2023-06-03,SoftCare Body Wash 250ml,Personal Care,1,376.6,South Zone,Cash
+A-01167,2024-06-12,PureBite Rice 5kg,Staples,30,797.79,North Zone,Cash
+A-01168,2023-12-29,GoldTea Premium 250g,Beverages,27,309.68,South Zone,Credit
+A-01169,2024-05-27,FreshWash Dish Soap 500ml,Home Care,47,307.35,East Zone,Card
+A-01170,2023-11-24,SoftCare Shampoo 200ml,Personal Care,34,794.58,South Zone,Credit
+A-01171,2024-02-29,GoldTea Green Tea 100g,Beverages,24,438.87,West Zone,UPI
+A-01172,2023-12-15,Sunrich Cooking Oil 1L,Edible Oils,4,212.53,South Zone,Credit
+A-01173,2023-11-22,PureBite Atta 5kg,Staples,27,233.96,North Zone,UPI
+A-01174,2023-10-28,FreshWash Dish Soap 500ml,Home Care,49,656.07,East Zone,Card
+A-01175,2023-02-22,PureBite Atta 5kg,Staples,2,511.63,North Zone,UPI
+A-01176,2023-03-21,PureBite Rice 5kg,Staples,10,571.79,South Zone,Card
+A-01177,2023-08-06,Sunrich Cooking Oil 1L,Edible Oils,36,662.59,South Zone,Card
+A-01178,2023-03-10,Sunrich Cooking Oil 5L,Edible Oils,19,171.49,South Zone,Card
+A-01179,2023-01-02,GoldTea Premium 250g,Beverages,7,767.12,East Zone,UPI
+A-01180,2023-07-23,CrunchTime Biscuits 200g,Snacks,47,148.43,West Zone,UPI
+A-01181,2023-05-09,PureBite Rice 5kg,Staples,46,138.3,North Zone,Credit
+A-01182,2023-01-25,CrunchTime Biscuits 200g,Snacks,46,837.61,South Zone,UPI
+A-01183,2024-01-05,PureBite Rice 5kg,Staples,29,47.98,South Zone,Credit
+A-01184,2024-05-16,CrunchTime Biscuits 200g,Snacks,30,701.2,North Zone,Card
+A-01185,2023-11-16,GoldTea Green Tea 100g,Beverages,26,65.28,South Zone,Credit
+A-01186,2023-04-11,Sunrich Cooking Oil 5L,Edible Oils,34,226.24,West Zone,Credit
+A-01187,2023-12-21,CrunchTime Chips 150g,Snacks,32,601.71,North Zone,Cash
+A-01188,2023-05-18,GoldTea Premium 250g,Beverages,43,165.53,South Zone,Card
+A-01189,2023-09-18,PureBite Rice 5kg,Staples,50,664.6,West Zone,UPI
+A-01190,2023-01-14,Sunrich Cooking Oil 5L,Edible Oils,20,706.45,East Zone,Cash
+A-01191,2023-04-30,Sunrich Cooking Oil 5L,Edible Oils,5,812.57,East Zone,Card
+A-01192,2023-07-05,SoftCare Shampoo 200ml,Personal Care,10,648.1,West Zone,Credit
+A-01193,2023-04-29,Sunrich Cooking Oil 5L,Edible Oils,27,92.38,South Zone,Card
+A-01194,2023-02-01,CrunchTime Biscuits 200g,Snacks,21,491.76,North Zone,Card
+A-01195,2024-01-17,Sunrich Cooking Oil 5L,Edible Oils,38,451.58,North Zone,Card
+A-01196,2023-04-25,CrunchTime Biscuits 200g,Snacks,2,708.77,South Zone,UPI
+A-01197,2024-03-23,Sunrich Cooking Oil 1L,Edible Oils,39,442.7,East Zone,Credit
+A-01198,2024-02-13,SoftCare Shampoo 200ml,Personal Care,9,888.7,East Zone,Credit
+A-01199,2023-08-25,PureBite Rice 5kg,Staples,47,211.67,North Zone,Card
+A-01200,2023-04-04,PureBite Rice 5kg,Staples,8,57.92,North Zone,UPI
+A-01201,2023-01-30,Sunrich Cooking Oil 5L,Edible Oils,39,425.17,North Zone,Card
+A-01202,2023-01-13,GoldTea Green Tea 100g,Beverages,10,48.52,West Zone,Credit
+A-01203,2023-12-08,FreshWash Dish Soap 500ml,Home Care,17,200.38,West Zone,Credit
+A-01204,2023-06-27,FreshWash Dish Soap 500ml,Home Care,5,530.23,West Zone,UPI
+A-01205,2024-05-19,PureBite Rice 5kg,Staples,46,784.84,South Zone,Cash
+A-01206,2023-12-14,Sunrich Cooking Oil 1L,Edible Oils,26,587.56,East Zone,Credit
+A-01207,2024-06-25,CrunchTime Biscuits 200g,Snacks,23,400.72,South Zone,UPI
+A-01208,2024-02-28,SoftCare Body Wash 250ml,Personal Care,22,695.38,East Zone,Cash
+A-01209,2023-07-04,SoftCare Body Wash 250ml,Personal Care,43,93.71,West Zone,Card
+A-01210,2023-08-11,CrunchTime Chips 150g,Snacks,17,236.35,South Zone,UPI
+A-01211,2024-03-07,PureBite Rice 5kg,Staples,38,130.17,East Zone,Cash
+A-01212,2023-12-15,SoftCare Body Wash 250ml,Personal Care,22,205.56,South Zone,Card
+A-01213,2023-01-14,SoftCare Body Wash 250ml,Personal Care,8,399.97,West Zone,Cash
+A-01214,2023-03-15,PureBite Rice 5kg,Staples,26,518.3,North Zone,UPI
+A-01215,2024-05-03,Sunrich Cooking Oil 1L,Edible Oils,28,205.59,East Zone,Card
+A-01216,2023-12-03,GoldTea Green Tea 100g,Beverages,22,555.23,North Zone,Card
+A-01217,2023-09-10,GoldTea Green Tea 100g,Beverages,7,208.1,North Zone,Credit
+A-01218,2023-05-14,SoftCare Body Wash 250ml,Personal Care,16,400.72,North Zone,UPI
+A-01219,2024-04-03,SoftCare Body Wash 250ml,Personal Care,2,866.73,South Zone,UPI
+A-01220,2023-07-22,SoftCare Body Wash 250ml,Personal Care,39,853.15,North Zone,UPI
+A-01221,2023-04-19,Sunrich Cooking Oil 1L,Edible Oils,4,800.19,South Zone,Card
+A-01222,2024-05-20,PureBite Atta 5kg,Staples,17,864.91,East Zone,UPI
+A-01223,2023-03-03,Sunrich Cooking Oil 5L,Edible Oils,35,834.05,South Zone,Cash
+A-01224,2024-04-07,Sunrich Cooking Oil 5L,Edible Oils,37,679.02,,Cash
+A-01225,2024-01-02,SoftCare Body Wash 250ml,Personal Care,17,332.85,West Zone,UPI
+A-01226,2024-02-01,GoldTea Green Tea 100g,Beverages,22,709.58,East Zone,Card
+A-01227,2024-04-16,GoldTea Premium 250g,Beverages,50,172.97,North Zone,UPI
+A-01228,2024-03-20,FreshWash Detergent Powder 1kg,Home Care,32,824.16,East Zone,Credit
+A-01229,2023-04-06,CrunchTime Biscuits 200g,Snacks,19,127.44,West Zone,Credit
+A-01230,2024-06-19,Sunrich Cooking Oil 1L,Edible Oils,16,516.83,South Zone,Card
+A-01231,2023-03-13,SoftCare Body Wash 250ml,Personal Care,3,458.16,West Zone,UPI
+A-01232,2024-03-19,PureBite Atta 5kg,Staples,10,626.27,North Zone,Card
+A-01233,2024-02-05,SoftCare Shampoo 200ml,Personal Care,45,689.54,North Zone,Card
+A-01234,2023-12-17,CrunchTime Biscuits 200g,Snacks,47,528.58,East Zone,Credit
+A-01235,2024-05-10,Sunrich Cooking Oil 1L,Edible Oils,24,180.56,West Zone,UPI
+A-01236,2023-12-18,CrunchTime Chips 150g,Snacks,42,445.2,South Zone,Cash
+A-01237,2023-04-03,Sunrich Cooking Oil 1L,Edible Oils,18,371.59,East Zone,Card
+A-01238,2023-12-12,Sunrich Cooking Oil 1L,Edible Oils,5,252.01,South Zone,Card
+A-01239,2024-06-14,CrunchTime Chips 150g,Snacks,21,631.77,South Zone,UPI
+A-01240,2023-11-14,PureBite Atta 5kg,Staples,46,456.08,West Zone,UPI
+A-01241,2024-05-22,SoftCare Body Wash 250ml,Personal Care,42,567.94,South Zone,Credit
+A-01242,2023-08-07,GoldTea Green Tea 100g,Beverages,8,237.8,East Zone,Cash
+A-01243,2023-03-14,CrunchTime Chips 150g,Snacks,19,448.17,North Zone,UPI
+A-01244,2024-01-23,SoftCare Shampoo 200ml,Personal Care,9,354.35,South Zone,Credit
+A-01245,2023-01-20,CrunchTime Biscuits 200g,Snacks,5,622.88,North Zone,Credit
+A-01246,2023-03-14,SoftCare Shampoo 200ml,Personal Care,15,352.64,West Zone,Card
+A-01247,2023-06-20,Sunrich Cooking Oil 1L,Edible Oils,19,160.51,South Zone,Cash
+A-01248,2023-11-04,CrunchTime Chips 150g,Snacks,19,59.67,,UPI
+A-01249,2023-12-03,PureBite Rice 5kg,Staples,40,294.05,South Zone,Credit
+A-01250,2024-04-26,PureBite Rice 5kg,Staples,28,549.09,East Zone,Card
+A-01251,2024-01-04,Sunrich Cooking Oil 5L,Edible Oils,26,266.31,East Zone,Card
+A-01252,2023-12-17,CrunchTime Biscuits 200g,Snacks,25,195.18,East Zone,UPI
+A-01253,2023-10-24,Sunrich Cooking Oil 1L,Edible Oils,,433.13,North Zone,UPI
+A-01254,2023-04-04,PureBite Atta 5kg,Staples,22,459.83,South Zone,Credit
+A-01255,2024-05-11,SoftCare Shampoo 200ml,Personal Care,32,309.76,West Zone,UPI
+A-01256,2023-01-06,PureBite Atta 5kg,Staples,44,750.07,North Zone,Credit
+A-01257,2023-10-18,CrunchTime Chips 150g,Snacks,37,69.03,North Zone,Card
+A-01258,2024-03-07,PureBite Rice 5kg,Staples,3,687.59,North Zone,Card
+A-01259,2024-04-18,PureBite Rice 5kg,Staples,14,562.14,East Zone,Credit
+A-01260,2023-07-01,SoftCare Body Wash 250ml,Personal Care,41,244.43,South Zone,Cash
+A-01261,2023-11-04,CrunchTime Chips 150g,Snacks,42,676.18,South Zone,UPI
+A-01262,2023-04-18,CrunchTime Chips 150g,Snacks,42,679.79,,Card
+A-01263,2024-01-31,CrunchTime Biscuits 200g,Snacks,5,595.67,West Zone,Credit
+A-01264,2023-10-23,FreshWash Dish Soap 500ml,Home Care,24,733.74,East Zone,UPI
+A-01265,2023-03-23,PureBite Atta 5kg,Staples,4,197.13,East Zone,Card
+A-01266,2023-05-08,SoftCare Body Wash 250ml,Personal Care,15,697.07,West Zone,Card
+A-01267,2023-02-19,PureBite Rice 5kg,Staples,37,281.64,North Zone,UPI
+A-01268,2024-01-20,GoldTea Green Tea 100g,Beverages,48,203.49,South Zone,Cash
+A-01269,2024-03-09,PureBite Rice 5kg,Staples,38,396.56,North Zone,Credit
+A-01270,2023-01-10,FreshWash Dish Soap 500ml,Home Care,27,552.9,South Zone,Credit
+A-01271,2023-11-15,FreshWash Detergent Powder 1kg,Home Care,31,766.19,South Zone,UPI
+A-01272,2023-06-26,GoldTea Premium 250g,Beverages,18,312.63,West Zone,UPI
+A-01273,2023-06-03,GoldTea Green Tea 100g,Beverages,23,716.97,East Zone,Cash
+A-01274,2023-11-24,Sunrich Cooking Oil 5L,Edible Oils,9,767.34,East Zone,Cash
+A-01275,2023-02-27,Sunrich Cooking Oil 5L,Edible Oils,11,386.12,North Zone,UPI
+A-01276,2024-06-07,PureBite Atta 5kg,Staples,30,542.41,West Zone,Credit
+A-01277,2023-12-20,SoftCare Shampoo 200ml,Personal Care,37,624.17,East Zone,UPI
+A-01278,2023-07-12,FreshWash Dish Soap 500ml,Home Care,6,345.11,West Zone,Card
+A-01279,2023-07-12,FreshWash Dish Soap 500ml,Home Care,8,575.71,South Zone,Card
+A-01280,2024-04-13,GoldTea Green Tea 100g,Beverages,18,378.77,South Zone,Credit
+A-01281,2023-11-05,SoftCare Shampoo 200ml,Personal Care,34,208.03,West Zone,Cash
+A-01282,2023-09-27,SoftCare Shampoo 200ml,Personal Care,47,469.05,West Zone,UPI
+A-01283,2024-01-06,PureBite Rice 5kg,Staples,16,464.38,North Zone,Cash
+A-01284,2024-04-12,PureBite Atta 5kg,Staples,31,686.37,West Zone,Cash
+A-01285,2023-04-15,CrunchTime Biscuits 200g,Snacks,38,115.65,East Zone,Credit
+A-01286,2023-07-13,CrunchTime Chips 150g,Snacks,2,237.88,West Zone,Card
+A-01287,2023-08-08,CrunchTime Chips 150g,Snacks,48,139.16,North Zone,Cash
+A-01288,2023-01-29,PureBite Atta 5kg,Staples,25,228.77,North Zone,Card
+A-01289,2024-06-02,GoldTea Green Tea 100g,Beverages,30,332.7,North Zone,UPI
+A-01290,2023-06-20,Sunrich Cooking Oil 1L,Edible Oils,10,768.05,West Zone,Card
+A-01291,2023-03-28,GoldTea Green Tea 100g,Beverages,40,101.74,South Zone,Credit
+A-01292,2023-04-29,CrunchTime Chips 150g,Snacks,47,516.13,East Zone,Credit
+A-01293,2023-04-12,FreshWash Detergent Powder 1kg,Home Care,25,83.42,North Zone,UPI
+A-01294,2023-08-24,FreshWash Detergent Powder 1kg,Home Care,20,220.19,North Zone,Credit
+A-01295,2023-05-27,GoldTea Premium 250g,Beverages,19,691.8,West Zone,UPI
+A-01296,2023-05-17,GoldTea Premium 250g,Beverages,5,631.24,North Zone,UPI
+A-01297,2023-04-19,Sunrich Cooking Oil 5L,Edible Oils,21,519.92,West Zone,Cash
+A-01298,2023-06-29,Sunrich Cooking Oil 1L,Edible Oils,45,381.67,South Zone,Cash
+A-01299,2024-03-01,Sunrich Cooking Oil 5L,Edible Oils,21,769.15,South Zone,Credit
+A-01300,2023-11-29,CrunchTime Chips 150g,Snacks,36,780.81,North Zone,Cash
+A-01301,2023-06-08,Sunrich Cooking Oil 1L,Edible Oils,42,600.19,East Zone,Card
+A-01302,2023-04-04,Sunrich Cooking Oil 5L,Edible Oils,21,184.88,East Zone,UPI
+A-01303,2024-05-04,SoftCare Body Wash 250ml,Personal Care,4,301.33,East Zone,Card
+A-01304,2024-03-11,Sunrich Cooking Oil 1L,Edible Oils,15,67.61,North Zone,Card
+A-01305,2023-03-21,SoftCare Shampoo 200ml,Personal Care,1,747.57,West Zone,Cash
+A-01306,2023-02-16,CrunchTime Chips 150g,Snacks,6,525.77,North Zone,UPI
+A-01307,2023-10-22,PureBite Atta 5kg,Staples,8,182.14,West Zone,Credit
+A-01308,2024-01-10,GoldTea Green Tea 100g,Beverages,27,645.39,North Zone,Card
+A-01309,2023-12-08,CrunchTime Biscuits 200g,Snacks,31,507.89,North Zone,Card
+A-01310,2023-07-20,FreshWash Detergent Powder 1kg,Home Care,41,493.55,South Zone,Credit
+A-01311,2023-09-07,SoftCare Body Wash 250ml,Personal Care,26,758.95,East Zone,Credit
+A-01312,2024-03-16,SoftCare Body Wash 250ml,Personal Care,34,481.44,North Zone,Cash
+A-01313,2024-05-19,PureBite Rice 5kg,Staples,19,386.4,North Zone,Credit
+A-01314,2023-05-26,GoldTea Green Tea 100g,Beverages,13,719.23,North Zone,UPI
+A-01315,2023-11-26,CrunchTime Biscuits 200g,Snacks,33,207.44,North Zone,Card
+A-01316,2023-02-26,SoftCare Shampoo 200ml,Personal Care,49,86.66,East Zone,Credit
+A-01317,2023-03-16,GoldTea Premium 250g,Beverages,8,51.57,East Zone,Credit
+A-01318,2024-04-17,PureBite Rice 5kg,Staples,7,195.47,East Zone,Card
+A-01319,2024-04-17,PureBite Rice 5kg,Staples,2,356.27,North Zone,Cash
+A-01320,2024-04-20,SoftCare Shampoo 200ml,Personal Care,49,537.84,West Zone,Card
+A-01321,2023-02-21,PureBite Atta 5kg,Staples,37,176.71,South Zone,Card
+A-01322,2023-03-30,GoldTea Green Tea 100g,Beverages,44,862.19,East Zone,UPI
+A-01323,2023-08-10,SoftCare Shampoo 200ml,Personal Care,9,813.06,West Zone,Card
+A-01324,2024-05-12,Sunrich Cooking Oil 1L,Edible Oils,4,730.99,West Zone,Cash
+A-01325,2023-05-19,FreshWash Detergent Powder 1kg,Home Care,36,770.86,North Zone,Card
+A-01326,2024-02-13,Sunrich Cooking Oil 5L,Edible Oils,37,870.61,East Zone,Credit
+A-01327,2023-11-13,GoldTea Green Tea 100g,Beverages,34,502.61,North Zone,UPI
+A-01328,2024-01-26,CrunchTime Chips 150g,Snacks,1,390.01,West Zone,Credit
+A-01329,2023-12-11,CrunchTime Chips 150g,Snacks,6,857.48,East Zone,Card
+A-01330,2023-08-22,Sunrich Cooking Oil 5L,Edible Oils,15,743.28,West Zone,Card
+A-01331,2023-09-20,Sunrich Cooking Oil 1L,Edible Oils,37,287.11,West Zone,Credit
+A-01332,2024-03-24,FreshWash Detergent Powder 1kg,Home Care,19,597.9,South Zone,Credit
+A-01333,2023-02-18,FreshWash Detergent Powder 1kg,Home Care,4,192.67,South Zone,Credit
+A-01334,2023-06-09,Sunrich Cooking Oil 5L,Edible Oils,12,646.25,North Zone,UPI
+A-01335,2023-07-26,CrunchTime Biscuits 200g,Snacks,35,207.12,East Zone,Cash
+A-01336,2024-02-03,CrunchTime Chips 150g,Snacks,43,688.49,West Zone,UPI
+A-01337,2023-12-18,FreshWash Dish Soap 500ml,Home Care,20,178.18,West Zone,Credit
+A-01338,2023-11-01,GoldTea Green Tea 100g,Beverages,31,636.33,West Zone,Card
+A-01339,2024-03-13,SoftCare Shampoo 200ml,Personal Care,46,452.55,West Zone,Cash
+A-01340,2024-03-29,PureBite Atta 5kg,Staples,46,416.83,West Zone,Cash
+A-01341,2024-06-30,SoftCare Shampoo 200ml,Personal Care,30,306.36,North Zone,UPI
+A-01342,2023-06-03,Sunrich Cooking Oil 1L,Edible Oils,3,789.11,North Zone,UPI
+A-01343,2023-03-24,GoldTea Premium 250g,Beverages,29,187.28,North Zone,Credit
+A-01344,2024-05-17,GoldTea Premium 250g,Beverages,1,353.43,East Zone,Cash
+A-01345,2024-03-31,GoldTea Premium 250g,Beverages,35,345.52,West Zone,Cash
+A-01346,2024-03-20,GoldTea Green Tea 100g,Beverages,15,742.39,West Zone,Cash
+A-01347,2024-03-03,PureBite Atta 5kg,Staples,46,136.95,East Zone,UPI
+A-01348,2024-01-12,PureBite Atta 5kg,Staples,36,392.51,East Zone,Card
+A-01349,2024-05-30,SoftCare Body Wash 250ml,Personal Care,22,185.24,East Zone,UPI
+A-01350,2024-01-11,SoftCare Shampoo 200ml,Personal Care,35,423.02,South Zone,Credit
+A-01351,2024-02-09,PureBite Rice 5kg,Staples,15,748.87,South Zone,Card
+A-01352,2024-03-20,PureBite Atta 5kg,Staples,42,78.9,South Zone,UPI
+A-01353,2023-02-19,PureBite Atta 5kg,Staples,8,762.27,West Zone,UPI
+A-01354,2024-05-27,PureBite Atta 5kg,Staples,44,413.95,East Zone,Cash
+A-01355,2024-03-09,GoldTea Green Tea 100g,Beverages,39,583.69,South Zone,Cash
+A-01356,2023-10-31,SoftCare Shampoo 200ml,Personal Care,39,570.96,,Credit
+A-01357,2024-03-28,SoftCare Body Wash 250ml,Personal Care,31,442.85,East Zone,Cash
+A-01358,2023-11-26,SoftCare Body Wash 250ml,Personal Care,49,80.74,West Zone,Cash
+A-01359,2024-03-17,PureBite Atta 5kg,Staples,20,589.77,North Zone,UPI
+A-01360,2023-10-15,FreshWash Dish Soap 500ml,Home Care,14,755.86,East Zone,Credit
+A-01361,2024-04-19,Sunrich Cooking Oil 1L,Edible Oils,43,544.47,West Zone,Cash
+A-01362,2024-04-27,GoldTea Green Tea 100g,Beverages,21,466.44,South Zone,Cash
+A-01363,2024-04-18,Sunrich Cooking Oil 1L,Edible Oils,12,388.32,South Zone,Credit
+A-01364,2023-07-05,GoldTea Green Tea 100g,Beverages,10,54.61,South Zone,Cash
+A-01365,2023-12-06,Sunrich Cooking Oil 5L,Edible Oils,33,877.46,South Zone,Credit
+A-01366,2024-03-24,FreshWash Dish Soap 500ml,Home Care,27,750.22,North Zone,Credit
+A-01367,2023-08-15,PureBite Rice 5kg,Staples,24,325.68,South Zone,UPI
+A-01368,2023-07-25,FreshWash Dish Soap 500ml,Home Care,13,418.33,North Zone,Card
+A-01369,2023-10-01,PureBite Atta 5kg,Staples,6,160.39,West Zone,Cash
+A-01370,2023-03-04,CrunchTime Biscuits 200g,Snacks,16,290.07,West Zone,Cash
+A-01371,2023-11-05,SoftCare Shampoo 200ml,Personal Care,3,160.3,West Zone,Card
+A-01372,2023-08-06,SoftCare Shampoo 200ml,Personal Care,19,255.02,South Zone,UPI
+A-01373,2024-06-04,GoldTea Premium 250g,Beverages,47,838.86,West Zone,UPI
+A-01374,2023-06-12,PureBite Rice 5kg,Staples,24,835.35,West Zone,Cash
+A-01375,2023-09-25,CrunchTime Biscuits 200g,Snacks,34,889.31,West Zone,Card
+A-01376,2024-04-24,GoldTea Green Tea 100g,Beverages,21,835.65,North Zone,Credit
+A-01377,2023-05-15,CrunchTime Biscuits 200g,Snacks,27,485.11,East Zone,Credit
+A-01378,2023-12-09,CrunchTime Biscuits 200g,Snacks,35,69.68,South Zone,UPI
+A-01379,2024-02-04,CrunchTime Biscuits 200g,Snacks,25,664.96,South Zone,Card
+A-01380,2024-04-19,PureBite Rice 5kg,Staples,1,434.62,West Zone,Card
+A-01381,2023-02-11,FreshWash Detergent Powder 1kg,Home Care,37,656.65,West Zone,Credit
+A-01382,2024-03-20,SoftCare Shampoo 200ml,Personal Care,27,335.57,East Zone,Card
+A-01383,2024-01-01,Sunrich Cooking Oil 1L,Edible Oils,48,352.18,West Zone,Card
+A-01384,2023-04-16,CrunchTime Chips 150g,Snacks,43,520.41,South Zone,Card
+A-01385,2023-02-03,GoldTea Premium 250g,Beverages,18,552.17,North Zone,Card
+A-01386,2024-06-02,GoldTea Premium 250g,Beverages,36,197.7,South Zone,Credit
+A-01387,2023-10-30,PureBite Atta 5kg,Staples,23,386.63,East Zone,Card
+A-01388,2023-09-03,PureBite Atta 5kg,Staples,20,243.35,South Zone,Cash
+A-01389,2023-08-25,CrunchTime Biscuits 200g,Snacks,43,454.29,South Zone,Credit
+A-01390,2023-11-27,CrunchTime Biscuits 200g,Snacks,44,608.08,West Zone,Cash
+A-01391,2023-09-07,GoldTea Green Tea 100g,Beverages,32,204.41,South Zone,Credit
+A-01392,2024-03-17,Sunrich Cooking Oil 1L,Edible Oils,47,641.94,South Zone,Credit
+A-01393,2023-05-27,SoftCare Shampoo 200ml,Personal Care,31,455.1,North Zone,Cash
+A-01394,2023-08-15,GoldTea Premium 250g,Beverages,28,358.29,South Zone,Cash
+A-01395,2023-08-25,GoldTea Premium 250g,Beverages,27,826.66,South Zone,Cash
+A-01396,2023-08-21,PureBite Rice 5kg,Staples,35,496.33,North Zone,Card
+A-01397,2023-06-24,Sunrich Cooking Oil 1L,Edible Oils,9,588.55,South Zone,Card
+A-01398,2023-05-23,SoftCare Body Wash 250ml,Personal Care,4,216.33,East Zone,Credit
+A-01399,2023-05-03,GoldTea Green Tea 100g,Beverages,18,394.29,West Zone,Credit
+A-01400,2023-06-10,FreshWash Detergent Powder 1kg,Home Care,23,237.12,West Zone,Card
+A-01401,2024-03-07,PureBite Rice 5kg,Staples,36,754.75,West Zone,UPI
+A-01402,2023-03-03,FreshWash Dish Soap 500ml,Home Care,19,278.65,South Zone,Credit
+A-01403,2024-06-11,GoldTea Premium 250g,Beverages,16,470.2,North Zone,Card
+A-01404,2024-04-26,GoldTea Premium 250g,Beverages,12,87.88,East Zone,Credit
+A-01405,2023-03-27,PureBite Rice 5kg,Staples,19,635.24,West Zone,UPI
+A-01406,2023-08-15,SoftCare Shampoo 200ml,Personal Care,5,342.46,West Zone,Cash
+A-01407,2023-05-02,CrunchTime Biscuits 200g,Snacks,46,77.37,West Zone,Credit
+A-01408,2023-10-26,SoftCare Body Wash 250ml,Personal Care,38,822.27,East Zone,Credit
+A-01409,2023-09-26,CrunchTime Chips 150g,Snacks,38,378.85,East Zone,Credit
+A-01410,2024-03-05,Sunrich Cooking Oil 5L,Edible Oils,46,837.2,East Zone,UPI
+A-01411,2023-08-28,CrunchTime Chips 150g,Snacks,35,396.4,North Zone,Credit
+A-01412,2023-11-21,FreshWash Detergent Powder 1kg,Home Care,37,321.41,South Zone,Credit
+A-01413,2023-07-03,CrunchTime Chips 150g,Snacks,49,621.8,South Zone,Cash
+A-01414,2024-01-02,PureBite Atta 5kg,Staples,26,547.5,East Zone,UPI
+A-01415,2023-07-17,GoldTea Premium 250g,Beverages,31,298.51,West Zone,Cash
+A-01416,2023-02-25,CrunchTime Chips 150g,Snacks,34,330.15,North Zone,Cash
+A-01417,2024-03-12,CrunchTime Biscuits 200g,Snacks,6,651.74,West Zone,Cash
+A-01418,2024-04-03,Sunrich Cooking Oil 5L,Edible Oils,1,88.95,East Zone,UPI
+A-01419,2023-08-07,Sunrich Cooking Oil 5L,Edible Oils,18,154.51,West Zone,Credit
+A-01420,2023-06-21,SoftCare Shampoo 200ml,Personal Care,22,425.3,East Zone,UPI
+A-01421,2023-11-06,FreshWash Detergent Powder 1kg,Home Care,5,530.45,East Zone,Cash
+A-01422,2023-10-14,SoftCare Body Wash 250ml,Personal Care,19,867.69,West Zone,UPI
+A-01423,2023-04-20,PureBite Atta 5kg,Staples,20,286.01,East Zone,Card
+A-01424,2023-08-09,CrunchTime Chips 150g,Snacks,26,310.56,East Zone,Cash
+A-01425,2023-01-27,Sunrich Cooking Oil 1L,Edible Oils,12,519.29,South Zone,Credit
+A-01426,2024-04-13,SoftCare Body Wash 250ml,Personal Care,14,462.75,South Zone,Cash
+A-01427,2024-02-28,GoldTea Green Tea 100g,Beverages,6,507.4,North Zone,Card
+A-01428,2023-12-10,CrunchTime Biscuits 200g,Snacks,13,892.14,East Zone,Cash
+A-01429,2023-08-06,PureBite Rice 5kg,Staples,7,704.78,East Zone,UPI
+A-01430,2023-11-23,FreshWash Detergent Powder 1kg,Home Care,37,397.42,East Zone,Credit
+A-01431,2023-08-27,PureBite Rice 5kg,Staples,28,342.43,North Zone,Cash
+A-01432,2024-01-16,GoldTea Premium 250g,Beverages,18,295.89,West Zone,Credit
+A-01433,2024-06-19,SoftCare Shampoo 200ml,Personal Care,1,510.95,East Zone,Cash
+A-01434,2023-02-11,Sunrich Cooking Oil 5L,Edible Oils,5,284.66,West Zone,Cash
+A-01435,2023-01-23,CrunchTime Biscuits 200g,Snacks,29,289.81,West Zone,UPI
+A-01436,2024-02-01,CrunchTime Biscuits 200g,Snacks,50,267.66,East Zone,Card
+A-01437,2024-01-31,SoftCare Body Wash 250ml,Personal Care,8,688.54,North Zone,Credit
+A-01438,2023-11-23,PureBite Rice 5kg,Staples,,878.06,North Zone,Card
+A-01439,2023-06-12,GoldTea Premium 250g,Beverages,40,573.44,North Zone,Card
+A-01440,2023-03-15,CrunchTime Chips 150g,Snacks,27,383.62,South Zone,Cash
+A-01441,2023-01-03,CrunchTime Chips 150g,Snacks,4,734.87,East Zone,UPI
+A-01442,2024-05-12,GoldTea Green Tea 100g,Beverages,48,699.48,West Zone,Card
+A-01443,2024-06-25,SoftCare Body Wash 250ml,Personal Care,41,839.07,North Zone,Credit
+A-01444,2023-08-29,SoftCare Body Wash 250ml,Personal Care,43,724.11,East Zone,UPI
+A-01445,2023-10-31,FreshWash Dish Soap 500ml,Home Care,36,851.1,South Zone,Credit
+A-01446,2023-04-01,FreshWash Detergent Powder 1kg,Home Care,17,720.24,North Zone,Card
+A-01447,2024-05-29,FreshWash Detergent Powder 1kg,Home Care,31,72.51,West Zone,Cash
+A-01448,2024-06-03,Sunrich Cooking Oil 1L,Edible Oils,9,86.19,East Zone,Credit
+A-01449,2024-02-07,CrunchTime Biscuits 200g,Snacks,42,634.21,East Zone,Cash
+A-01450,2023-09-03,SoftCare Shampoo 200ml,Personal Care,50,44.32,East Zone,Credit
+A-01451,2023-03-30,SoftCare Shampoo 200ml,Personal Care,35,646.83,West Zone,UPI
+A-01452,2023-06-18,GoldTea Green Tea 100g,Beverages,2,76.84,West Zone,UPI
+A-01453,2024-06-06,PureBite Atta 5kg,Staples,46,696.66,North Zone,Card
+A-01454,2023-03-11,SoftCare Shampoo 200ml,Personal Care,40,226.71,South Zone,UPI
+A-01455,2023-05-28,SoftCare Body Wash 250ml,Personal Care,45,790.32,North Zone,Cash
+A-01456,2024-06-03,Sunrich Cooking Oil 5L,Edible Oils,20,369.25,South Zone,UPI
+A-01457,2024-05-16,SoftCare Shampoo 200ml,Personal Care,33,821.08,West Zone,Cash
+A-01458,2023-06-18,GoldTea Premium 250g,Beverages,33,349.22,South Zone,UPI
+A-01459,2023-11-24,PureBite Atta 5kg,Staples,19,897.92,South Zone,Credit
+A-01460,2023-05-16,GoldTea Green Tea 100g,Beverages,16,872.66,East Zone,UPI
+A-01461,2024-06-15,CrunchTime Chips 150g,Snacks,5,841.69,South Zone,Card
+A-01462,2023-01-12,Sunrich Cooking Oil 5L,Edible Oils,15,876.16,South Zone,Credit
+A-01463,2024-06-24,SoftCare Body Wash 250ml,Personal Care,18,531.09,East Zone,Card
+A-01464,2023-05-10,GoldTea Premium 250g,Beverages,28,484.53,West Zone,UPI
+A-01465,2024-04-08,Sunrich Cooking Oil 1L,Edible Oils,13,850.1,North Zone,Cash
+A-01466,2024-01-02,FreshWash Dish Soap 500ml,Home Care,25,412.23,East Zone,Credit
+A-01467,2023-11-03,CrunchTime Biscuits 200g,Snacks,39,139.78,East Zone,Credit
+A-01468,2023-05-21,CrunchTime Chips 150g,Snacks,37,781.42,East Zone,Cash
+A-01469,2023-08-24,CrunchTime Biscuits 200g,Snacks,26,379.66,North Zone,UPI
+A-01470,2023-01-25,Sunrich Cooking Oil 1L,Edible Oils,50,325.49,West Zone,Card
+A-01471,2023-11-17,Sunrich Cooking Oil 1L,Edible Oils,18,121.41,West Zone,Card
+A-01472,2024-06-11,CrunchTime Chips 150g,Snacks,35,871.5,West Zone,UPI
+A-01473,2024-03-01,Sunrich Cooking Oil 5L,Edible Oils,22,144.49,South Zone,Cash
+A-01474,2023-08-08,SoftCare Body Wash 250ml,Personal Care,42,729.64,West Zone,Card
+A-01475,2023-08-05,SoftCare Shampoo 200ml,Personal Care,42,370.67,West Zone,Card
+A-01476,2024-04-08,FreshWash Dish Soap 500ml,Home Care,7,561.39,East Zone,Credit
+A-01477,2024-02-12,SoftCare Shampoo 200ml,Personal Care,47,331.81,South Zone,Card
+A-01478,2024-05-02,FreshWash Dish Soap 500ml,Home Care,41,479.05,North Zone,Card
+A-01479,2024-02-19,GoldTea Premium 250g,Beverages,43,114.76,East Zone,Credit
+A-01480,2023-05-22,CrunchTime Chips 150g,Snacks,22,733.92,West Zone,Credit
+A-01481,2024-01-11,PureBite Atta 5kg,Staples,35,323.12,West Zone,Credit
+A-01482,2024-02-10,SoftCare Body Wash 250ml,Personal Care,8,50.74,East Zone,Card
+A-01483,2024-05-03,CrunchTime Biscuits 200g,Snacks,34,893.01,West Zone,Card
+A-01484,2024-02-13,PureBite Rice 5kg,Staples,35,368.92,West Zone,UPI
+A-01485,2024-03-22,GoldTea Green Tea 100g,Beverages,3,280.03,West Zone,Cash
+A-01486,2024-01-22,CrunchTime Biscuits 200g,Snacks,19,891.97,East Zone,UPI
+A-01487,2024-02-07,Sunrich Cooking Oil 5L,Edible Oils,44,515.62,East Zone,Cash
+A-01488,2023-08-20,GoldTea Premium 250g,Beverages,33,221.23,South Zone,Cash
+A-01489,2023-11-06,GoldTea Green Tea 100g,Beverages,49,235.27,East Zone,UPI
+A-01490,2023-02-16,GoldTea Premium 250g,Beverages,25,584.11,South Zone,Credit
+A-01491,2024-01-22,PureBite Atta 5kg,Staples,47,66.87,South Zone,Cash
+A-01492,2023-01-03,GoldTea Green Tea 100g,Beverages,22,820.76,South Zone,Cash
+A-01493,2024-03-24,PureBite Atta 5kg,Staples,5,890.95,West Zone,Card
+A-01494,2023-11-11,CrunchTime Biscuits 200g,Snacks,26,55.87,South Zone,UPI
+A-01495,2024-01-30,CrunchTime Chips 150g,Snacks,43,736.01,East Zone,Cash
+A-01496,2023-02-13,PureBite Rice 5kg,Staples,41,397.44,South Zone,UPI
+A-01497,2023-10-06,Sunrich Cooking Oil 5L,Edible Oils,19,529.52,East Zone,UPI
+A-01498,2023-01-01,FreshWash Dish Soap 500ml,Home Care,38,404.54,South Zone,Credit
+A-01499,2023-08-24,SoftCare Body Wash 250ml,Personal Care,1,267.48,North Zone,Cash
+A-01500,2024-06-04,GoldTea Green Tea 100g,Beverages,33,287.84,West Zone,Cash
